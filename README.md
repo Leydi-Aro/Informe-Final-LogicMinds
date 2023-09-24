@@ -1100,7 +1100,7 @@ En esta Sección, se presentará el diseño del sitio web de nuestro desarrollo 
 
 **Footer:**
 
-![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 014](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3c03a5b0-c862-4808-9225-71667150783c)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 013](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/669a6775-a59b-4127-a709-7412b94fbadd)
 
 Link:<https://www.figma.com/file/jQIqlL0sXCpWKGhqa9RHw1/OpenSource---Wireframes?node-id=0%3A1&t=PZFjfsIpIwBiQKEP-1>6
 
