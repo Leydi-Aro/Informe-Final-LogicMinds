@@ -1087,26 +1087,20 @@ En esta Sección, se presentará el diseño del sitio web de nuestro desarrollo 
 
 **Menú principal** de la plataforma: Opciones de navegación
 
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 010](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/57d567c7-8624-4e68-ae03-16a674ce1652)
 
 
 **About us:** Es una sección del menú principal
 
-![Interfaz de usuario gráfica, Aplicación, Word
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.056.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 011](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ac69a8ae-daee-485e-a9c9-4c2db621b25a)
 
 **Categorias:** Es una sección del menú principal
 
-![Forma
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.057.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 012](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d2b0c455-a6a0-404e-980e-638bbd405910)
 
 **Footer:**
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.058.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 014](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3c03a5b0-c862-4808-9225-71667150783c)
 
 Link:<https://www.figma.com/file/jQIqlL0sXCpWKGhqa9RHw1/OpenSource---Wireframes?node-id=0%3A1&t=PZFjfsIpIwBiQKEP-1>6
 
