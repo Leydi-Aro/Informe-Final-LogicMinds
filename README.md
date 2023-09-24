@@ -997,25 +997,32 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 |27|US-20|Optimizar el rendimiento de la aplicación|Como desarrollador, quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida.|2|
 
 
-#**CAPÍTULO IV: PRODUCT DESIGN** 
+<a name="_toc131683607"></a><a name="_toc145263612"></a>4
 
-## 4.1 Style Guidelines
-### 4.1.1 4.1.1	General Style Guidelines
+CHAPTER
+1. # ![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.002.png)**CAPÍTULO IV: PRODUCT DESIGN** 
 
+
+1. ## <a name="_toc131679446"></a><a name="_toc131679537"></a><a name="_toc131682246"></a><a name="_toc131683608"></a><a name="_toc131683609"></a><a name="_toc145263613"></a>Style Guidelines
+   1. ### <a name="_toc131683610"></a><a name="_toc145263614"></a>General Style Guidelines
 Lenguaje:
+
 El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que queremos transmitirle al usuario seguridad y confianza en la información y recomendaciones que le brindemos.
 
 Logo:
-El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
 
-FOTO
+![Logotipo, nombre de la empresa
+
+Descripción generada automáticamente](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.003.jpeg)El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
 
 
 Color:
 
 Esta es la paleta de colores qué se usará en todo el diseño de la aplicación.
 
-FOTO
+|<a name="_toc131683611"></a>064789|427AA1|<p>EBF2FA</p><p> </p>|
+| - | - | - |
+|002C3E|78BCC4|F7F8F3|
 
 Web Style Guidelines
 
@@ -1023,12 +1030,11 @@ Typography:
 
 ![Texto
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.049.png)La tipografía qué se usará es “RerossRectagular” la cuál es sencilla y de fácil de reconocer para que las personas puedan sentirse cómodas en la aplicación 
+Descripción generada automáticamente](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.004.png)La tipografía qué se usará es “RerossRectagular” la cuál es sencilla y de fácil de reconocer para que las personas puedan sentirse cómodas en la aplicación 
 
 Spacing:
 
 El uso de los espacios es muy importante en la app ya que como utilizaremos letras grandes y entendibles, no trataremos de usar muchas palabras a la hora de utilizar la app.
-
 
 1. ### <a name="_toc145263615"></a><a name="_toc131683612"></a>General Style Guidelines
 Typography:
