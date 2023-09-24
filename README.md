@@ -1110,31 +1110,23 @@ Se presentará la vista preliminar del sitio web, se va a detallar el contenido 
 
 **Menú de la plataforma:** Se muestran las principales opciones que permitirán al usuario conocer más de los servicios de la plataforma.
 
-![Un letrero de color blanco
-
-Descripción generada automáticamente con confianza media](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.059.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 014](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3c03a5b0-c862-4808-9225-71667150783c)
 
 **About us:** Es una opción de la barra de herramientas del menú principal, donde se da a conocer el propósito de la plataforma.
 
-![Imagen que contiene Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.060.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 015](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3868d1ec-4d4d-4f68-8b3e-d5508b514ce2)
 
 - **Categorías:** Es una opción de la barra de herramientas del menú principal, donde se especifica las categorías a las que el usuario podrá encontrar en la plataforma. 
 
-![Interfaz de usuario gráfica
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 016](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ff7425ef-dc91-4759-9bed-f2c86295bd3b)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.061.png)
+- **Suscripción:** 
 
-- Suscripción: 
-
-![Interfaz de usuario gráfica, Texto, Aplicación, Chat o mensaje de texto
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.062.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 017](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/cb48b114-6ece-494f-8799-0c4226c85bba)
 
 - Footer: 
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.063.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 018](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/adb15762-088f-4e8d-a2cd-d8c09d6caed1)
 
 <a name="_toc131683621"></a>Página desplegada: <https://tiempoapurado-grupo.github.io/ProyectLandingPage/> 
 **
@@ -1145,45 +1137,34 @@ Los wireframes son representaciones visuales de baja fidelidad que muestran la e
 
 Link: <https://www.figma.com/file/mpa7yzaz0TfmwIkF3tWUUb/WIREFRAMES-MOCKUPS-RENTSTATE?type=design&node-id=264%3A2&mode=design&t=UbqEmTeOufyTGYof-1> 
 
-![Interfaz de usuario gráfica, Sitio web
+**Sección Login:**
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.064.png)**Sección Login:**
-
-**
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 019](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7b024a1c-46ab-4d34-ba16-ac965bbda45d)
 
 **Sección bienvenida y perfil:**
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.065.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3b45d0f9-e64c-4a6d-99a7-d7ae30290434)
 
 **Sección mensajes:**
 
-![Interfaz de usuario gráfica, Sitio web
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.066.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 021](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c506dfd5-ba2c-4c70-b5cc-17d94dd86819)
 
 **Sección publicaciones:**
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.067.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 022](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d021abf1-16cf-40c1-93c5-262c5df3b0cc)
 
 **Sección registro de propiedad y publicación:**
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.068.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 023](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2f84900c-bd9a-485b-ad51-2f496e2edf8e)
 
 **Sección Foro:**
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.069.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 024](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/0e1dd2b6-1cbe-40b3-838e-0a51414a50c9)
 
 **Sección tablas de propiedades, clientes y reservas:**
 
-![Interfaz de usuario gráfica
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 025](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/68a5574b-94b7-4311-86c3-9ab68e648c32)
+
 
 Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.070.png)
 1. ### <a name="_toc131683623"></a><a name="_toc145263626"></a>Web Applications Wireflow Diagrams
