@@ -1245,6 +1245,8 @@ En el proceso de desarrollo de una aplicación web, los mockups son una herramie
 Link: <https://www.figma.com/file/mpa7yzaz0TfmwIkF3tWUUb/WIREFRAMES-MOCKUPS-RENTSTATE?type=design&node-id=0%3A1&mode=design&t=UbqEmTeOufyTGYof-1>
 
 **Sección Login:**
+
+
 ![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 036](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b665ef23-c204-43fd-aa2d-c0df3f532ad7)
 
 **Sección Bienvenida y Perfil:**
