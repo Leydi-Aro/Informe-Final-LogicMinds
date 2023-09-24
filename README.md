@@ -998,24 +998,21 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 
 
 <a name="_toc131683607"></a><a name="_toc145263612"></a>4
-|<p>43</p><p>![](![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/590c048b-96d9-4081-bb69-eaaa58767a35))</p>|
+|<p>43</p><p>!(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/590c048b-96d9-4081-bb69-eaaa58767a35))</p>|
 | :- |
 CHAPTER
-1. # ![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.001.png)**CAPÍTULO IV: PRODUCT DESIGN** 
+1. # !(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 002](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/26246e51-be7d-4214-926f-7565e7204b79))**CAPÍTULO IV: PRODUCT DESIGN** 
 
 
 1. ## <a name="_toc131679446"></a><a name="_toc131679537"></a><a name="_toc131682246"></a><a name="_toc131683608"></a><a name="_toc131683609"></a><a name="_toc145263613"></a>Style Guidelines
    1. ### <a name="_toc131683610"></a><a name="_toc145263614"></a>General Style Guidelines
 Lenguaje:
-
 El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que queremos transmitirle al usuario seguridad y confianza en la información y recomendaciones que le brindemos.
 
 Logo:
+El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
 
-![Logotipo, nombre de la empresa
-
-Descripción generada automáticamente](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.003.jpeg)El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
-
+!(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 003](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/0b8ec074-9bf6-42a1-aaea-a9fc6545c23a))
 
 Color:
 
@@ -1028,10 +1025,9 @@ Esta es la paleta de colores qué se usará en todo el diseño de la aplicación
 Web Style Guidelines
 
 Typography:
+La tipografía qué se usará es “RerossRectagular” la cuál es sencilla y de fácil de reconocer para que las personas puedan sentirse cómodas en la aplicación.
 
-![Texto
-
-Descripción generada automáticamente](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.004.png)La tipografía qué se usará es “RerossRectagular” la cuál es sencilla y de fácil de reconocer para que las personas puedan sentirse cómodas en la aplicación 
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 004](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b4a07983-d3f9-462d-87b9-ac94e860d96c)
 
 Spacing:
 
