@@ -1273,156 +1273,129 @@ Segmento: Arrendatarios
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendatario para poder registrarse. Selecciona Register del menú principal, completa los campos y especifica el tipo de usuario para poder registrarse correctamente.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.088.png) 
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 043](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/aa75819d-ce82-4965-a4cd-daafb199f1bb)
 
 ***User Goal:*** Como arrendatario quiero iniciar sesión rápidamente 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendatario para iniciar sesión. Selecciona Login del menú principal, ingresa correo y contraseña para ingresar a Renstate.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.089.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 044](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/10d3f405-15ca-4188-8cb4-36bd7323607b)
 
 ***User Goal:*** Como arrendatario quiero recuperar mi cuenta en caso olvide mi contraseña 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendatario para poder recuperar su cuenta. Selecciona la opción de forgot your password, redireccionará a la pantalla de recuperar cuenta donde ingresará email y nueva contraseña. ![Interfaz de usuario gráfica, Sitio web
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.090.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 045](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/babcb24c-62b0-43b3-9703-f5c30941bdc8)
 
 ***User Goal:*** Como arrendatario quiero realizar cambios a mi perfil registrado
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendatario para realizar cambios a su perfil. Selecciona ícono perfil, redireccionará a la pantalla de editar perfil y realizar los cambios que se desee como personal information o change password, que una vez conforme “save changes” al seleccionar ícono casa podrá regresar a la pantalla principal del segmento en caso de eliminar la cuenta “delete account” regresará a la pantalla principal de la plataforma.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.091.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 046](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c924f965-b7b6-4952-8c4d-ed3ed8b6c004)
 
 ***User Goal:*** Como arrendatario quiero encontrar un inmueble acorde a mis necesidades
 
 ***Descripción:*** En los siguientes Wireflows, se mostrarán las diferentes formas de realizar búsquedas. 
-
 Selecciona las categorías del menú principal que redireccionará a la pantalla de anuncios que sean específicamente de la categoría seleccionada y luego selecciona el anuncio con el ícono de desplegar. Finalmente, el anuncio seleccionado se despliega y muestra la descripción del anuncio.
 
-![Imagen que contiene Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.092.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 047](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/31bdac9c-852b-4efd-acba-73a1e283d3c4)
 
 ***User Goal:*** Como arrendatario quiero recibir y enviar mensajes.
 
 ***Descripción:*** En el siguiente Wireflow, se envidencia como el arrendatario va a poder enviar mensaje con el arrendador o con otro arrendatario para que pueda cotizar precios de acuerdo con el lugar, reservas, etc.
 
-![Captura de pantalla de un celular
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.093.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 048](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2645e1eb-4159-467c-87e0-1386477622c6)
 
 ***User Goal:*** Como arrendatario quiero reservar una cita al inmueble
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para reservar una visita al inmueble. Desplegar el anuncio seleccionado, en la sección de Schedule seleccionar el horario de visita y completar los campos de información para enviar la solicitud de visita.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.094.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 049](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/82a4ce18-ee7d-4b8c-a05f-d54c48ee88b7)
 
 ***User Goal:*** Como arrendatario quiero calificar al arrendador
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para calificar al arrendador. Selecciona ícono del perfil del arrendador, agrega comentarios, calificación y Save para que se visualice la calificación.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.095.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 050](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/585f736f-3343-4a7f-8a26-1352c8678258)
 
 ***User Goal:*** Como arrendatario quiero tener acceso a un foro de consultas y/o comentarios
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para visualizar foro, dónde el arrendatario puede ver los foros de los arrendadores y responder la cadena de foro o realizar una de cadena.  
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.096.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 051](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/43bf8e00-a403-467f-892a-95a8346667d8)
 
 Segmento: Arrendador
 
 ***User Goal:*** Como arrendador quiero registrarme fácilmente a Renstate 
 
 ***Descripción:*** En los siguientes Wireflows, se mostrará las formas de poder registrase
-
 Primero, el flujo que seguirá el arrendador para poder registrarse al seleccionar Register del menú principal, se completa los campos y especifica el tipo de usuario para poder registrarse correctamente.
 
-![Imagen que contiene Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.097.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 052](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/a32165c3-ad10-4366-816a-7288fb00ca1d)
 
 Segundo, el flujo que seguirá el arrendador al seleccionar un plan de suscripción de la pantalla principal de la plataforma se registra al completar todos los campos y especificar el tipo de usuario seleccionar Continue, será redireccionado a la pantalla de información de los bancos autorizados para realizar el pago, al momento de realizar el pago se registrará correctamente.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.098.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 053](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/53847c71-7af8-4a6c-964e-54556313fb44)
 
 ***User Goal:*** Como arrendador quiero iniciar sesión rápidamente 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendador para iniciar sesión. Selecciona Login del menú principal de la plataforma, ingresa correo y contraseña para ingresar a Renstate.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.099.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 054](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/981fc273-54fa-4b8b-9089-b6e3ab2f6d72)
 
 ***User Goal:*** Como arrendador quiero recuperar mi cuenta en caso olvide mi contraseña 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendador para poder recuperar su cuenta. Selecciona la opción de forgot your password, redireccionará a la pantalla de recuperar cuenta donde ingresará email y nueva contraseña. 
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.100.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 055](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/63af707d-61e4-46a1-b271-85edc28eeca6)
 
 ***User Goal:*** Como arrendador quiero realizar cambios a mi perfil registrado
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendador para realizar cambios a su perfil. Selecciona ícono perfil, redireccionará a la pantalla de editar perfil y realizar los cambios que se desee como personal information o change password, que una vez conforme “save changes” al seleccionar ícono casa podrá regresar a la pantalla principal del segmento en caso de eliminar la cuenta “delete account” regresará a la pantalla principal de la plataforma.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.101.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 056](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/5e8410cf-9bd5-4d82-826b-aa0323231f6d)
 
 ***User Goal:*** Como arrendador quiero visualizar mis anuncios según categoría
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el arrendador para visualizar sus anuncios según categoría. Al seleccionar la opción Advertisement del Menú, se desplegará las categorías, al seleccionar una categoría en específico podrá visualizar los anuncios que realizó según donde corresponda dicho anuncio por categoría.  
 
-![Interfaz de usuario gráfica, Tabla
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.102.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 057](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/1646bda3-ac91-4aab-b663-2343da71fc0d)
 
 ***User Goal:*** Como arrendador quiero registrar, editar y visualizar mis propiedades
 
 ***Descripción:*** En los siguientes Wireflows, se evidencian los flujos que seguirá el arrendador para visualizar a sus propiedades, registrar y editar información de la propiedad.
-
 Al desplegar la opción My properties del Menú: 
-
 Seleccionar la opción add property para registrar propiedad, Completar formulario, luego agregar con ícono más para registrar correctamente la propiedad a la lista de propiedades de la opción My properties del menú de despliegue y acceder a sus herramientas como ícono editar para actualizar información relevante de la propiedad. 
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.103.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 058](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7f6f2fc2-a370-42b5-9854-77f3956c0ea2)
 
 ***User Goal:*** Como arrendatario quiero calificar al arrendatario
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para calificar al arrendatario. Desplegar la opción My tenants del menú de despliegue, seleccionar cliente, agregar calificación y comentarios. Por último, Save para guardar los cambios.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.104.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 059](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/50abcb4a-53f6-411f-b2ac-8c5343b754df)
 
 ***User Goal:*** Como arrendador quiero recibir y enviar mensajes
 
 ***Descripción:*** En los siguientes Wireflows, se mostrará los flujos que seguirá el arrendador para visualizar y enviar mensajes.
+Debes seleccionar el icono de mensaje para poder acceder a la mensajería, ya sea para poder revisar tus mensajes o enviar un mensaje a un amigo arrendador o a un arrendatario.
 
-Debes seleccionar el icono de mensaje para poder acceder a la mensajería, ya sea para poder revisar tus mensajes o enviar un mensaje a un amigo arrendador o a un arrendatario.![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.105.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 060](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fb533f5f-eeff-4216-8843-5816580c3a39)
 
 ***User Goal:*** Como arrendador quiero tener acceso al foro de consultas.
 
 ***Descripción:*** En el Wireflow presentado, se muestra el proceso para acceder al foro, donde el arrendatario puede ver los foros creados por los arrendadores y responder a una cadena de discusión o iniciar una nueva.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.106.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 061](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/f99f77c2-6b1b-4ca5-98e4-10dd53a019c1)
 
 Link:<https://lucid.app/lucidspark/74e64788-64ea-465b-acf8-2c09f5c5f6d7/edit?viewport_loc=-1766%2C3542%2C6503%2C3156%2C0_0&invitationId=inv_b5ed2be4-a127-4797-9196-83cb0bcf7b3c>
 
 1. ## <a name="_toc145263628"></a>Web Applications Prototyping
 ![Interfaz de usuario gráfica, Diagrama, Aplicación, Word
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.107.png)El diseño de aplicaciones web es un proceso esencial para garantizar una experiencia de usuario fluida y atractiva. Para la aplicación debe ser importante crear una interfaz intuitiva y visualmente atractiva que facilite la búsqueda y reserva de propiedades.
+El diseño de aplicaciones web es un proceso esencial para garantizar una experiencia de usuario fluida y atractiva. Para la aplicación debe ser importante crear una interfaz intuitiva y visualmente atractiva que facilite la búsqueda y reserva de propiedades.
+
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 062](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/17c5fad2-c14e-4306-b84f-299e64872e08)
 
 **Link: <https://www.figma.com/file/mpa7yzaz0TfmwIkF3tWUUb/WIREFRAMES-MOCKUPS-RENTSTATE?type=design&node-id=0%3A1&mode=design&t=bHvnqsSE2LUdVd6I-1>** 
 
@@ -1431,33 +1404,27 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
    1. ### <a name="_toc131683628"></a><a name="_toc145263630"></a>Software Architecture Context Diagram
 Un diagrama de contexto de arquitectura de software es una representación visual de un sistema de software que muestra su entorno externo y las interacciones del sistema con entidades externas como usuarios, otros sistemas y dispositivos. Proporciona una visión general de todo el sistema centrándose en el contexto del sistema y las partes interesadas.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.108.png)
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 063](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/17383256-d449-4b29-bc1b-b94a7b86058e)
 
 1. ### <a name="_toc131683629"></a><a name="_toc145263631"></a>Software Architecture Container Diagrams
 Los diagramas de contenedores de arquitectura de software son un tipo de diagrama que se utiliza para representar la arquitectura de alto nivel de un sistema de software al mostrar las relaciones entre los diversos contenedores que componen el sistema. Los contenedores pueden considerarse entornos de tiempo de ejecución que encapsulan y aíslan un conjunto de componentes y dependencias de software, como un servidor web, un servicio de base de datos o un servidor de aplicaciones. 
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.109.png)	
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 064](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7361e47e-f8b0-433e-8e09-c06bab12078e)
 
 
 1. ### <a name="_toc131683630"></a><a name="_toc145263632"></a>Software Architecture Components Diagrams
 Un diagrama de componentes de arquitectura de software (SACD) es un tipo de diagrama que proporciona una descripción general de los componentes de un sistema de software y cómo interactúan entre sí para formar el sistema general. El diagrama normalmente incluye componentes como módulos, bibliotecas y servicios, así como las interfaces y dependencias entre estos componentes. Los SACD se utilizan a menudo como una herramienta para el diseño y la documentación de la arquitectura de software.
 
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.110.png)
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 065](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e851739c-643c-43cc-a831-641bf091409f)
 
 1. ## <a name="_toc131683631"></a><a name="_toc145263633"></a>Software Object-Oriented Design
    1. ### <a name="_toc131683632"></a><a name="_toc145263634"></a>Class Diagrams
 
 Para el diagrama de clase se identificó todos los modelos abstractos que se utilizará para el desarrollo de nuestra aplicación, así como también fue necesario identificar bien el tipo de relación que existe entre ellas.
 
-![Diagrama, Dibujo de ingeniería
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.111.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 066](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/45a6e047-42b7-4de3-bf03-380f4471f4d4)
 
 *Diagrama de clase*
-
-
 
 
 1. ### <a name="_toc131683633"></a><a name="_toc145263635"></a>Class Dictionary
@@ -1513,10 +1480,9 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
 
 *Diseño de la base de datos.*
 
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 067](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/4545cb46-d41f-42be-8790-c3ca725df6d2)
 
 
-
-# ![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.113.png)
 **CAPÍTULO V: PRODUCT** 
 # **IMPLEMENTATION, VALIDATION & DEPLOYMENT**
 
