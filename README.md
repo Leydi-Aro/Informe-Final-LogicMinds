@@ -1000,7 +1000,7 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 <a name="_toc131683607"></a><a name="_toc145263612"></a>4
 
 CHAPTER
-1. # ![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.002.png)**CAPÍTULO IV: PRODUCT DESIGN** 
+1. # ![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.001.png)**CAPÍTULO IV: PRODUCT DESIGN** 
 
 
 1. ## <a name="_toc131679446"></a><a name="_toc131679537"></a><a name="_toc131682246"></a><a name="_toc131683608"></a><a name="_toc131683609"></a><a name="_toc145263613"></a>Style Guidelines
