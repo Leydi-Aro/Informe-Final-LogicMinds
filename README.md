@@ -997,32 +997,25 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 |27|US-20|Optimizar el rendimiento de la aplicación|Como desarrollador, quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida.|2|
 
 
+#**CAPÍTULO IV: PRODUCT DESIGN** 
 
-<a name="_toc131683607"></a><a name="_toc145263612"></a>4
+## 4.1 Style Guidelines
+### 4.1.1 4.1.1	General Style Guidelines
 
-**CAPÍTULO IV: PRODUCT DESIGN** 
-
-
-1. ## <a name="_toc131679446"></a><a name="_toc131679537"></a><a name="_toc131682246"></a><a name="_toc131683608"></a><a name="_toc131683609"></a><a name="_toc145263613"></a>Style Guidelines
-   1. ### <a name="_toc131683610"></a><a name="_toc145263614"></a>General Style Guidelines
 Lenguaje:
-
 El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que queremos transmitirle al usuario seguridad y confianza en la información y recomendaciones que le brindemos.
 
 Logo:
+El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
 
-![Logotipo, nombre de la empresa
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.048.jpeg)El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
+FOTO
 
 
 Color:
 
 Esta es la paleta de colores qué se usará en todo el diseño de la aplicación.
 
-|<a name="_toc131683611"></a>064789|427AA1|<p>EBF2FA</p><p> </p>|
-| - | - | - |
-|002C3E|78BCC4|F7F8F3|
+FOTO
 
 Web Style Guidelines
 
