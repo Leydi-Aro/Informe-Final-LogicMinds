@@ -1391,7 +1391,6 @@ Debes seleccionar el icono de mensaje para poder acceder a la mensajería, ya se
 Link:<https://lucid.app/lucidspark/74e64788-64ea-465b-acf8-2c09f5c5f6d7/edit?viewport_loc=-1766%2C3542%2C6503%2C3156%2C0_0&invitationId=inv_b5ed2be4-a127-4797-9196-83cb0bcf7b3c>
 
 1. ## <a name="_toc145263628"></a>Web Applications Prototyping
-![Interfaz de usuario gráfica, Diagrama, Aplicación, Word
 
 El diseño de aplicaciones web es un proceso esencial para garantizar una experiencia de usuario fluida y atractiva. Para la aplicación debe ser importante crear una interfaz intuitiva y visualmente atractiva que facilite la búsqueda y reserva de propiedades.
 
@@ -1474,13 +1473,9 @@ Para el diseño de la base de datos se ha identificado 9 entidades las cuales se
 - **Forums:** Se guarda las consultas o dudas que los usuarios en general hagan en la aplicación.
 - **Answers:** Se guardan todas las respuestas a cada uno de los foros.
 
-![Diagrama, Esquemático
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.112.png)
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 067](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/4545cb46-d41f-42be-8790-c3ca725df6d2)
 *Diseño de la base de datos.*
 
-![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 067](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/4545cb46-d41f-42be-8790-c3ca725df6d2)
 
 
 **CAPÍTULO V: PRODUCT** 
