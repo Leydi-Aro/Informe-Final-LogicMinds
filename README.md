@@ -1166,35 +1166,27 @@ Link: <https://www.figma.com/file/mpa7yzaz0TfmwIkF3tWUUb/WIREFRAMES-MOCKUPS-RENT
 ![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 025](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/68a5574b-94b7-4311-86c3-9ab68e648c32)
 
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.070.png)
 1. ### <a name="_toc131683623"></a><a name="_toc145263626"></a>Web Applications Wireflow Diagrams
 ***User Goal:*** Como usuario quiero registrarme fácilmente a Renstate 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el usuario para poder registrarse. Selecciona el únete del menú principal y completa los campos para poder registrarse correctamente.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.071.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 026](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b75c5994-8aae-4630-a77f-e59972ecdfea)
 
 ***User Goal:*** Como usuario quiero iniciar sesión rápidamente 
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el usuario para iniciar sesión. Selecciona Login del menú principal, ingresa correo y contraseña para ingresar a Renstate.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.072.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 027](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d16bb82b-c3eb-4c11-99b4-dfbf87a6e04e)
 
 ***User Goal:*** Como arrendatario quiero recuperar mi cuenta en caso olvide mi contraseña 
-
 
 
 ***User Goal:*** Como arrendatario quiero realizar cambios a mi perfil registrado
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo que seguirá el usuario para realizar cambios a su perfil. Selecciona ícono perfil, redireccionará a la pantalla de editar perfil y realizar los cambios que se desee como personal Email o Age, que una vez conforme al seleccionar “Save” se guardaran las modificaciones
 
-![Interfaz de usuario gráfica, Aplicación, Tabla, Excel
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.073.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 028](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/077d0f85-45e9-400e-a472-faf17241ce60)
 
 ***User Goal:*** Como usuario quiero encontrar un inmueble acorde a mis necesidades
 
@@ -1202,69 +1194,47 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
 
 Primero, selecciona las categorías del menú principal que redireccionará a la pantalla de publicaciones que sean específicamente de la categoría seleccionada. Finalmente, la publicación seleccionada se despliega y muestra los detalles.
 
-![Interfaz de usuario gráfica, Sitio web
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.074.png)
-
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 029](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/cd86140a-4bf2-4f14-a74b-29d94021dbb0)
 
 ***User Goal:*** Como usuario quiero reservar el inmueble
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para reservar una visita al inmueble. Desplegar el anuncio seleccionado, en la sección de Schedule seleccionar el horario de visita y completar los campos de información para enviar la solicitud de visita.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.075.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 030](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c7f5ad30-0447-4c02-8923-c3e26920c344)
 
 ***User Goal:*** Como arrendatario quiero reservar un inmueble
 
 ***Descripción:*** En el siguiente Wireflow, se evidencia el flujo para calificar a algún usuario que haya realizado una publicación de algún inmueble. Desplegar el anuncio seleccionado, en la sección de Schedule seleccionar el horario de visita y completar los campos de información para enviar la solicitud de visita.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.076.png)
-
-
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 031](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/eaab9ffc-4e53-4b46-b004-7542ed33b56d)
 
 ***User Goal:*** Como usuario quiero registrar, editar y visualizar una tabla de cliente
 
 ***Descripción:*** En los siguientes Wireflows, se evidencian los flujos que seguirá el usuario para visualizar a sus clientes.
-
 Al desplegar la opción My tenants del Menú: 
-
 Seleccionar la opción “See your clientes”, se podrá visualizar la tabla con los clientes con los iconos para poder modificar.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.077.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 032](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/99aa56f6-b36c-4fb0-8aa4-c8ff9ff4d206)
 
 ***User Goal:*** Como usuario quiero registrar, editar y visualizar mis propiedades
 
 ***Descripción:*** En los siguientes Wireflows, se evidencian los flujos que seguirá el usuario para visualizar a sus propiedades, registrar y editar información de la propiedad.
-
 Seleccionar la opción de “See your post”, se podrá observar la tabla de publicaciones, donde se podrá agregar la información de un nuevo inmueble completando todos los campos del formulario.
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.078.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 033](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/f1ad6ce4-3511-4c29-8df1-d6536e853198)
 
 ***User Goal:*** Como usuario quiero recibir y enviar mensajes
 
-***Descripción:*** En los siguientes Wireflows, se mostrará los flujos que seguirá el usuario para enviar mensajes
+***Descripción:*** En los siguientes Wireflows, se mostrará los flujos que seguirá el usuario para enviar mensajes cuando selecciones.
 
-Cuando selecciones 
-
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.079.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 034](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c32055db-16e4-4631-a128-47e74a16b717)
 
 ***User Goal:*** Como usuario quiero poder realizar consultas en el foro
 
 ***Descripción:*** En los siguientes Wireflows, se mostrará los flujos que seguirá el usuario para hacer usuario del foro
 
-![Interfaz de usuario gráfica, Aplicación
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 035](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2bd2c98c-e17c-48ee-a71d-4c88b25e23bc)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.080.png)
 
 Link Antiguo: <https://lucid.app/lucidspark/12be4b14-371a-45b6-be51-62cafeba966e/edit?viewport_loc=-1171%2C-3689%2C1821%2C884%2C0_0&invitationId=inv_0336407e-089f-4e81-971f-c455cce49dec>
 
@@ -1275,45 +1245,25 @@ En el proceso de desarrollo de una aplicación web, los mockups son una herramie
 Link: <https://www.figma.com/file/mpa7yzaz0TfmwIkF3tWUUb/WIREFRAMES-MOCKUPS-RENTSTATE?type=design&node-id=0%3A1&mode=design&t=UbqEmTeOufyTGYof-1>
 
 **Sección Login:**
-
-![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.081.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 036](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b665ef23-c204-43fd-aa2d-c0df3f532ad7)
 
 **Sección Bienvenida y Perfil:**
-
-![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.082.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 037](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/afe06f67-af30-468a-bb0f-06aed01c2e85)
 
 **Sección mensajes:**
-
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.083.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 038](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fdbb1bc4-f430-4ce7-8473-b7d3f8d38ff4)
 
 **Sección publicaciones:**
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 039](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/6b71b635-70a1-4737-8862-05028a5f8283)
 
-![Interfaz de usuario gráfica, Sitio web
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.084.png)
-
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.085.png)**Sección registro de propiedad y publicación:**
-
-
-
+**Sección registro de propiedad y publicación:**
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 040](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/437eb0b3-fd8f-433f-b7b1-4bd53c831a19)
 
 **Sección Foro:**
-
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.086.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 041](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/21bc153c-7d7a-492c-b8e3-b81dc4dadd63)
 
 **Sección tablas de propiedades, clientes y reservaciones:**
-
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.087.png)
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 042](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/72127e5e-ad2e-4493-bf3a-fe63cf31db0b)
 
 <a name="_toc131683625"></a>Web Applications User Flow Diagrams
 
