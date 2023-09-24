@@ -998,7 +998,7 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 
 
 <a name="_toc131683607"></a><a name="_toc145263612"></a>4
-|<p>43</p><p>![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.001.png)</p>|
+|<p>43</p><p>![](![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/590c048b-96d9-4081-bb69-eaaa58767a35))</p>|
 | :- |
 CHAPTER
 1. # ![](Aspose.Words.121be8f5-2512-4026-b394-395baa5280e4.001.png)**CAPÍTULO IV: PRODUCT DESIGN** 
