@@ -998,10 +998,10 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 
 
 <a name="_toc131683607"></a><a name="_toc145263612"></a>4
-|<p>43</p><p>!(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/590c048b-96d9-4081-bb69-eaaa58767a35))</p>|
+|<p>43</p><p>![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/590c048b-96d9-4081-bb69-eaaa58767a35)</p>|
 | :- |
 CHAPTER
-1. # !(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 002](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/26246e51-be7d-4214-926f-7565e7204b79))**CAPÍTULO IV: PRODUCT DESIGN** 
+1. # ![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 002](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/26246e51-be7d-4214-926f-7565e7204b79)**CAPÍTULO IV: PRODUCT DESIGN** 
 
 
 1. ## <a name="_toc131679446"></a><a name="_toc131679537"></a><a name="_toc131682246"></a><a name="_toc131683608"></a><a name="_toc131683609"></a><a name="_toc145263613"></a>Style Guidelines
@@ -1012,7 +1012,7 @@ El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que que
 Logo:
 El logo de Rentstate se ha diseñado con los elementos que forman parte de la esencia de la aplicación. Está conformado por una silueta de una casa en la parte superior y el nombre de la aplicación en la parte inferior. Dado que nuestra Startup tiene el propósito de la renta de inmuebles.
 
-!(![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 003](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/0b8ec074-9bf6-42a1-aaea-a9fc6545c23a))
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 003](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/0b8ec074-9bf6-42a1-aaea-a9fc6545c23a)
 
 Color:
 
@@ -1035,17 +1035,14 @@ El uso de los espacios es muy importante en la app ya que como utilizaremos letr
 
 1. ### <a name="_toc145263615"></a><a name="_toc131683612"></a>General Style Guidelines
 Typography:
+Para garantizar la comodidad del usuario al momento de navegar por la aplicación se hará un buen contraste del fondo con el tipo de letra que sea agradable a la vista y conoce al usuario y deje de usar la aplicación. También los espacios entre objetos serán amplios para que no se sature de información y solo se mostrará la necesaria. La fuente que usaremos será la de "RerossRectagular" ya que es una fuente que se adapta a cualquier diseño y además su forma geométrica lo hace agradable a la vista.
 
-![Texto
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.050.png)Para garantizar la comodidad del usuario al momento de navegar por la aplicación se hará un buen contraste del fondo con el tipo de letra que sea agradable a la vista y conoce al usuario y deje de usar la aplicación. También los espacios entre objetos serán amplios para que no se sature de información y solo se mostrará la necesaria. La fuente que usaremos será la de "RerossRectagular" ya que es una fuente que se adapta a cualquier diseño y además su forma geométrica lo hace agradable a la vista.
+![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 005](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/31056b4b-5cf8-4d7a-94f2-283a9a1112ee)
 
 Imágenes:
-
 Pero para un óptimo funcionamiento de nuestra aplicación se decidió usar imágenes con una menor o igual 90 MB. Además, todas las imágenes deben ser de formato JPG debido a que este es el mejor formato para conservar la información y calidad de una imagen.
 
 Patrón de Diseño web:
-
 Para el diseño de la interfaz decidimos usar el patrón de diseño F, porque es un patrón muy conocido y fácil de leer la información ya que el usuario no tendrá nada especial que hacer y todo será natural para él. La forma de presentar la información con este patrón será de arriba hacia abajo y de izquierda a derecha.
 
 
@@ -1071,21 +1068,10 @@ Los sistemas de etiquetado generalmente se refieren a sistemas o procesos utiliz
 
 |Ícono|Descripción|
 | - | - |
-|![Forma
-
-Descripción generada automáticamente con confianza baja](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.051.png)|<p>“Bocina”</p><p>Silenciar aplicación: Al presionar el botón con este ícono permite silenciar la aplicación, por lo que no hará ningún sonido. Para volver a escuchar la aplicación se debe volver a presionar el botón.</p>|
-|![Imagen en blanco y negro
-
-Descripción generada automáticamente con confianza media](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.052.png)|<p>“Notificaciones”</p><p>Notificaciones: Icono qué servirá para qué el usuario pueda identificar cuando tiene una nueva notificación</p>|
-
-
-|![Forma
-
-Descripción generada automáticamente con confianza baja](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.053.png)|<p>“Perfil”</p><p>Perfil: Al presionar el botón con este ícono permite ingresar al perfil para poder ver o modificar el nombre, datos, viajes realizados, etc.</p>|
-| - | - |
-|![Forma
-
-Descripción generada automáticamente con confianza baja](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.054.png)|<p>“Configuración”</p><p>Configuración: Al presionar el botón con este ícono permite configurar diversos aspectos de la aplicación como tamaño del mapa, tamaño de letra, volumen de sonido, idioma, sugerencias, etc.</p>|
+|![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 006](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7577e23b-dee6-4bba-ac6c-cdef9e54c938)|<p>“Bocina”</p><p>Silenciar aplicación: Al presionar el botón con este ícono permite silenciar la aplicación, por lo que no hará ningún sonido. Para volver a escuchar la aplicación se debe volver a presionar el botón.</p>|
+|![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 007](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e72b6625-e09a-40bd-be77-0339b605ab5c)|<p>“Notificaciones”</p><p>Notificaciones: Icono qué servirá para qué el usuario pueda identificar cuando tiene una nueva notificación</p>|
+|![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 008](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/16b71447-23fb-4331-9f1a-3a1e9273fb98)|<p>“Perfil”</p><p>Perfil: Al presionar el botón con este ícono permite ingresar al perfil para poder ver o modificar el nombre, datos, viajes realizados, etc.</p>|
+|![Aspose Words 121be8f5-2512-4026-b394-395baa5280e4 009](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/40fe55dd-0432-4a4d-844f-d2de9d6fd43b)|<p>“Configuración”</p><p>Configuración: Al presionar el botón con este ícono permite configurar diversos aspectos de la aplicación como tamaño del mapa, tamaño de letra, volumen de sonido, idioma, sugerencias, etc.</p>|
 
 
 1. ### <a name="_toc131683615"></a><a name="_toc145263619"></a>SEO tags and Meta Tags
@@ -1099,11 +1085,8 @@ A continuación, se mostrarán los sistemas de búsqueda implementados para ayud
    1. ### <a name="_toc145263622"></a>Landing Page Wireframe
 En esta Sección, se presentará el diseño del sitio web de nuestro desarrollo de software. Para brindar una mejor idea del contenido que se mostrará en la plataforma. El Landing Page es del tamaño adecuado para las pantallas de los ordenadores, así se mostrará la información centrada y será fácilmente visible para los usuarios. Asimismo, se evidencia una barra de navegación estática que facilitará la navegación del usuario, y así brindar la mejor experiencia.   
 
-Menú principal de la plataforma: Opciones de navegación
+**Menú principal** de la plataforma: Opciones de navegación
 
-![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.055.png)
 
 
 
