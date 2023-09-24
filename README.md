@@ -950,17 +950,13 @@ User: Arrendador
 
 Se presenta la sección del Impact Map en el usuario, arrendador, en la que se basó en las User Stories de nuestro proyecto, dónde se da opciones que dispone el sitio web para solucionar el percance del usuario, así como satisfacer las necesidades que presente cuando necesite buscar y rentar un inmueble.
 
-![Escala de tiempo
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.045.png)
-
+<img src="https://i.ibb.co/tY1D1d9/ux.png" alt="ux" border="0">
 User: Arrendatario:
 
 En esta versión del arrendatario. En la cual, gracias a la herramienta Impact map, diseñamos los impacts y deliverables que nos ayudará a establecer las opciones determinantes que llamen la atención del usuario y acceda a usar nuestra plataforma. Por último, se utilizó las User Stories como base para implementar.
 
-![Imagen que contiene Texto
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.046.png)
+<img src="https://i.ibb.co/nbG65TV/uxarrendatario.png" alt="uxarrendatario" border="0">
 
 
 1. ## <a name="_toc131683606"></a><a name="_toc145263611"></a>Product Backlog
