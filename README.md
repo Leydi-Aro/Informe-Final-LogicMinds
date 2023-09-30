@@ -1628,44 +1628,32 @@ Para esta entrega no se realizaron pruebas de testeo.
 
 Durante este sprint, se diseñó y desarrolló la primera iteración del landing page con meticulosa consideración de patrones de diseño, una paleta de colores apropiada, y el objetivo primordial de persuadir al usuario a utilizar nuestra aplicación.
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Sitio web
+![EXECUTION IMAGE 1](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/5e7b37c5-ad6e-4ae9-85b8-dcc215889b11)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.125.png)
+![EXECUTION IMAGE 2](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/01bc9039-c48e-4498-ab28-441495a17b82)
 
-![Interfaz de usuario gráfica
+![EXECUTION IMAGE 3](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/f6877953-9ca3-433b-8dfa-d1599cdfc0b2)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.126.png)
-
-
-
-
-![Interfaz de usuario gráfica, Texto, Aplicación, Chat o mensaje de texto
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.127.png)
 1. #### Documentation Evidence for Sprint Review
 
 Para este sprint solo se realizó el diseño e implementación de la landing page. No se realizaron end points.
 
 
 1. #### Software Deployment Evidence for Sprint Review
-![Interfaz de usuario gráfica, Aplicación
+En esta sección se presentará capturas del despliegue exitoso del landing page que se realizó en este sprint 1.
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.128.png)![Imagen que contiene Aplicación
+![DEPLOYMENT IMAGE 1](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/b0795102-c2ea-4e22-86b1-44177efd515a)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.129.png)![](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.130.png)En esta sección se presentará capturas del despliegue exitoso del landing page que se realizó en este sprint 1.
+![DEPLOYMENT IMAGE 2](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/bb6b437f-9219-4f28-bae7-f57e82645b05)
 
-![Una captura de pantalla de un videojuego
-
-Descripción generada automáticamente con confianza media](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.131.png)
 1. #### Team Collaboration Insights during Sprint
-
 Se evidencia la colaboración de todos los integrantes del equipo para el desarrollo de la landing page.
 
-![Captura de pantalla de un celular
+![INSIGHTS IMAGE 1](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/4c54c657-a97f-4893-b03c-1ab082246c06)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.132.png)![Captura de pantalla de un celular
+![INSIGHTS IMAGE 2](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/54d181a1-2e8c-4192-9f56-b10f5437407a)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.133.png)
+![INSIGHTS IMAGE 3](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/ce642a3f-61ad-466c-9f0f-db4d7e4b2815)
 
 1. ### Sprint 2
 1. #### Sprint Planning 
