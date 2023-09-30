@@ -1767,7 +1767,7 @@ Summary</td>
 
 
 
-1. #### 5.2.2.8 Team Collaboration Insights during Sprint
+ #### 5.2.2.8 Team Collaboration Insights during Sprint
 Cada miembro del equipo trabajó en conjunto para la implementación del frontend.
 
 Repositorios de la Organización:
@@ -1779,7 +1779,7 @@ Repositorios de la Organización:
 ![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ff526baf-dc35-4f34-a461-a0fbf1498091)
 
 
-1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
+ # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
 Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
 
 - **Análisis Competitivo sólido**: El análisis de competidores fue esencial para comprender el mercado y las tendencias actuales en el sector de alquileres de propiedades. Esto nos permitió identificar oportunidades para diferenciarnos y mejorar.
