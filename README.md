@@ -1736,6 +1736,28 @@ Summary</td>
 |US-22|Listar propiedades|W-07|Mostrar una lista de propiedades|<p>- Crear una interfaz de usuario que muestre una lista de propiedades.</p><p>-Implementar la funcionalidad de ordenar la lista de propiedades según diferentes criterios, como precio, ubicación o tamaño.</p><p>-Agregar la capacidad de ver detalles adicionales de cada propiedad, como imágenes, descripciones y características.</p><p></p>|5 hours|Angie|In process|
 |US-21|Diseñar la interfaz de usuario|W-08|Crear una interfaz de usuario intuitiva y atractiva|-Diseñar un esquema de navegación claro y fácil de usar.|6 hours|Julio|Done|
 
+1. #### Development Evidence for Sprint Review
+####
+
+<table><tr><th colspan="1" valign="top"><b>Repository</b> </th><th colspan="1" valign="top"><b>Branch</b> </th><th colspan="1" valign="top"><b>Commit id</b> </th><th colspan="1" valign="top"><b>Commit Message</b> </th><th colspan="1" valign="top"><b>Commited on(Date)</b> </th></tr>
+<tr><td colspan="1" rowspan="13" valign="top"><p><https://github.com/LogicMinds-Group/frontEnd></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p></b> </p></td><td colspan="1" valign="top">(origin/publish-property, publish-property</td><td colspan="1" valign="top">f847f87bd8ee4b8d283b8fb34754a40e263aba54 </td><td colspan="1" valign="top">add publish section </td><td colspan="1" valign="top">Fri Sep 29 17:05:32 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/register-property) </td><td colspan="1" valign="top">1e5120252a3032d0880a7259b01107fe57e97c8c </td><td colspan="1" valign="top">add property-form v1 </td><td colspan="1" valign="top">Fri Sep 29 00:51:13 2023 </td></tr>
+<tr><td colspan="1" valign="top"><p>(origin/feature/register-property) </p><p> </p></td><td colspan="1" valign="top"><p>763cf114f59aeaea407bf730737dbf03bef41f63 </p><p> </p></td><td colspan="1" valign="top">add property-form v1 </td><td colspan="1" valign="top">Fri Sep 29 00:51:13 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/forum-list) </td><td colspan="1" valign="top">6ec42df72e5915b85bf64abe97b00a0b28ce214e </td><td colspan="1" valign="top">Forum Secction completed </td><td colspan="1" valign="top">Sun Sep 24 04:43:39 2023 </td></tr>
+<tr><td colspan="1" valign="top"><p>(origin/feature/forum-list) </p><p> </p></td><td colspan="1" valign="top"><p>0b6e4ce46109b7782e2c8bca87f6015c8edad02d </p><p> </p></td><td colspan="1" valign="top">Forum Secction completed </td><td colspan="1" valign="top"><p>Sun Sep 24 04:43:39 2023 </p><p> </p></td></tr>
+<tr><td colspan="1" valign="top"><p>(origin/feature/forum-list) </p><p> </p></td><td colspan="1" valign="top">0b6e4ce46109b7782e2c8bca87f6015c8edad02d </td><td colspan="1" valign="top">forum-list and forum-see </td><td colspan="1" valign="top">Sat Sep 23 18:19:13 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">388e626cf4227499d635419498efbcb82e904019 </td><td colspan="1" valign="top">section message completed </td><td colspan="1" valign="top">Sat Sep 23 11:01:32 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">047af980e7dac86742374bc749ad6f67e3e7d020 </td><td colspan="1" valign="top">gender added </td><td colspan="1" valign="top">Fri Sep 22 19:53:25 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">440e9684fe33d14bbeb8b31ae34651e56d0a4d5e </td><td colspan="1" valign="top">Send message completed </td><td colspan="1" valign="top">Fri Sep 22 19:53:25 2023 </td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">e5622fbbfb97e9a8726a551f1381228c443d54d7 </td><td colspan="1" valign="top">see and qualify profile completed </td><td colspan="1" valign="top"><p>Fri Sep 22 19:53:25 2023 </p><p> </p></td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">c3dcb0c46abe130af637230f2a5f56fd34668bb2 </td><td colspan="1" valign="top">see post desing completed </td><td colspan="1" valign="top"><p>Fri Sep 22 19:53:25 2023 </p><p> </p></td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/edit-profile) </td><td colspan="1" valign="top">dc4daf6754d9002b3a7055e6e03e335259f13a71 </td><td colspan="1" valign="top">list post desing completed </td><td colspan="1" valign="top"><p>Fri Sep 22 19:53:25 2023 </p><p> </p></td></tr>
+<tr><td colspan="1" valign="top">(origin/feature/register) </td><td colspan="1" valign="top">61a1b0e6233afe0e988db3a81ee7a79c8ae06af9 </td><td colspan="1" valign="top">Edit profile dising  completed </td><td colspan="1" valign="top">Thu Sep 21 23:55:11 2023</td></tr>
+</table>
+
+
+
+
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
 Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
 
@@ -1750,8 +1772,6 @@ Para esta entrega del trabajo hemos identificado la problemática y a la vez pla
 - **Seguridad y Privacidad**: Se implementaron prácticas de seguridad para proteger los datos de los usuarios y garantizar que la información personal estuviera segura.
 - **Pruebas Rigurosas**: Se realizaron pruebas exhaustivas en diferentes navegadores y dispositivos para garantizar la compatibilidad cruzada y la funcionalidad sin problemas en una variedad de situaciones.
 - **Feedback de Usuarios**: Se recopiló y se tuvo en cuenta el feedback de los usuarios durante el proceso de desarrollo y se realizaron ajustes en el diseño y la funcionalidad según las sugerencias recibidas.
-
-
 
 1. # <a name="_toc131683655"></a><a name="_toc145263647"></a>**ANEXOS**
 
