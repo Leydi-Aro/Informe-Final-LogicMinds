@@ -1766,8 +1766,11 @@ Cada miembro del equipo trabajó en conjunto para la implementación del fronten
 
 Repositorios de la Organización:
 
+![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 017](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/733bb607-04da-4a39-a69a-b8cceaf401c1)
 
+![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 019](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/aaf4e32b-74ce-44c4-9566-cdda63e3eba2)
 
+![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ff526baf-dc35-4f34-a461-a0fbf1498091)
 
 
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
