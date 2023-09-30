@@ -1702,22 +1702,30 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseñar las interfaces de la aplicación, implementando los métodos de POST y GET para las user stories que lo requieran</td>
     </tr>
     <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong> </strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">        
+        - <strong>US09 Publicar dentro de la aplicación (Story Point 8)</strong>   
+        - <strong>US10 Implementar mensajería (Story Point 5)</strong> 
+        - <strong>US11 Listar publicaciones (Story Point 5)</strong> 
+        - <strong>US27 Participar en el foro (Story Point 3)</strong> 
+        - <strong>US13 Crear mi perfil en la aplicación (Story Point 3)</strong> 
+        - <strong>US08 Visualizar arrendatario (Story Point 5)</strong> 
+        - <strong>US22 Listar propiedades (Story Point 5)</strong> 
+        - <strong>US21 Diseñar la interfaz de usuario (Story Point 5)</strong>        
+      </td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong> </strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>39</strong></td>
     </tr>
   </tbody>
 </table>
 
 
-![Captura de pantalla de computadora
 
 Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.134.png)
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
