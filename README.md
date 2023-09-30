@@ -1733,7 +1733,20 @@ Summary</td>
   </tbody>
 </table>
 
+1. #### Sprint Backlog 2
 
+|Sprint #|Sprint 2|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item/Task|||||||
+|Id|Title|Id|Title|Description|Estimation |Assigned To|Status|
+|US-09|Publicar dentro de la aplicación|W-01|Implementar la funcionalidad de publicación de propiedades dentro de la aplicación|<p>- Desarrollar una opción de publicación de propiedades que permita a los usuarios compartir información e imágenes dentro de la aplicación.</p><p>- La publicación debe ser fácil de usar, intuitiva y estéticamente agradable para mejorar la experiencia del usuario.</p>|5 hours|Edwin|Done|
+|US-10|Implementar mensajería|W-02|Desarrollar sistema de mensajería en la aplicación|<p>- Diseñar una interfaz de usuario intuitiva y atractiva para la función de mensajería.</p><p>- Desarrollar la lógica necesaria para gestionar el envío y recepción de mensajes.</p><p></p><p></p><p></p>|4 hours|Edwin|In process|
+|US-11|Listar publicaciones|W-03|Mostrar todas las publicaciones|<p>- Implementar una funcionalidad que permita al usuario ver todas las publicaciones disponibles en la plataforma.</p><p>- incluye la creación de una página o sección dedicada a la lista de publicaciones, donde se mostrará el título, la descripción y otros detalles relevantes de cada publicación.</p>|3 hours|Leydi|In process|
+|US-27|Participar en el foro|W-04|Implementar el diseño y funcionalidades del foro|<p>-Desarrollar la interfaz del foro.</p><p>-Desarrollar los métodos del floro.</p>|3 hours|Leydi|In process|
+|US-13|Crear mi perfil en la aplicación|W-05|Configuración inicial del perfil de usuario en la aplicación|<p>-Desarrollar la interfaz del foro.</p><p></p>|3 hours|Jhan|Done|
+|US-08|Visualizar arrendatario|W-06|Visualización de información del arrendatario|<p>-Crear una interfaz de usuario para mostrar los detalles del arrendatario.</p><p>- Obtener y mostrar el nombre completo del arrendatario.</p>|5 hours|Angie|Done|
+|US-22|Listar propiedades|W-07|Mostrar una lista de propiedades|<p>- Crear una interfaz de usuario que muestre una lista de propiedades.</p><p>-Implementar la funcionalidad de ordenar la lista de propiedades según diferentes criterios, como precio, ubicación o tamaño.</p><p>-Agregar la capacidad de ver detalles adicionales de cada propiedad, como imágenes, descripciones y características.</p><p></p>|5 hours|Angie|In process|
+|US-21|Diseñar la interfaz de usuario|W-08|Crear una interfaz de usuario intuitiva y atractiva|-Diseñar un esquema de navegación claro y fácil de usar.|6 hours|Julio|Done|
 
 Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.134.png)
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
