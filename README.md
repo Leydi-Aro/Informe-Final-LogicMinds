@@ -1763,6 +1763,11 @@ Summary</td>
 
  #### 5.2.2.6 Documentation Evidence for Sprint Review
 
+Para este sprint se documentará el template o directorio para poder desplegar el db.json.
+
+![fdsfsdf](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/0b003dfc-c820-474d-a8df-f665144bcbee)
+
+
  #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 Para este sprint se desplegó una Fake Api, para poder desplegar el frontend. Se utilizó la herramienta Render y Github.
 
