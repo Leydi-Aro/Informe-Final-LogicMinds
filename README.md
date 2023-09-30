@@ -1487,7 +1487,7 @@ Para gestionar los avances y poder coordinar los trabajos en tiempo real y de ma
 
 - Google Drive:  Es un servicio de alojamiento y sincronización de archivos desarrollado por Google
 
-![Logotipo
+![Google Drive](https://www.infobae.com/new-resizer/4gb71JcAfkXNjKSpqyjD75Ywc2M=/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IZ34LU4DDZFHNJEUIY2YZ72VFI.png)
 
 Descripción generada automáticamente con confianza media](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.114.png)Link: <https://www.google.com/intl/es-419_pe/drive/>
 
