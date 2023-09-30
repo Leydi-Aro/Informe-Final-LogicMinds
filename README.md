@@ -1489,31 +1489,21 @@ Para gestionar los avances y poder coordinar los trabajos en tiempo real y de ma
 
 ![Google Drive](https://www.infobae.com/new-resizer/4gb71JcAfkXNjKSpqyjD75Ywc2M=/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/IZ34LU4DDZFHNJEUIY2YZ72VFI.png)
 
-Descripción generada automáticamente con confianza media](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.114.png)Link: <https://www.google.com/intl/es-419_pe/drive/>
+- Documentos de Google: Es un procesador de texto en línea que se incluye como parte de la suite Google Docs Editors basada en la web de Google
 
-
-
-- ![Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.115.png)Documentos de Google: Es un procesador de texto en línea que se incluye como parte de la suite Google Docs Editors basada en la web de Google
+  ![Google Docs](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JWRITYPDSJFGJF2PN47TFK3STI.png)
 
 - Discord: Es un servicio de mensajería instantánea y chat de voz VolP. Funciona a través de servidores y está separado en canales de texto o de voz 
 
-![Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.116.png)Link: <https://discord.com/>
+![Discord](https://cdn.sanity.io/images/kts928pd/production/3a8feb0e279d07a02c91451aebf4dba91263075a-1140x620.png)
 
 - Git: Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia
 
-![Logotipo, nombre de la empresa
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.117.png)Link: <https://git-scm.com/>
+![Git](https://nodd3r.com/media/blog/Portadas_blog_21.png)
 
 - Trello: Es un software de administración de proyectos con interfaz web y con cliente para iOS y android para organizar proyectos.
 
-![Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.118.png)Link: [Trello](https://trello.com/es?&aceid=&adposition=&adgroup=144042670505&campaign=19322080936&creative=642166749551&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74609546573&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad=1&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyZ-hyce2f-pFMgZr0F2yjOjMsXzq_ScjR5tZqm39HimQiTB6I6v8SgaAmRVEALw_wcB&gclsrc=aw.ds)
+![Trello](https://i.pcmag.com/imagery/reviews/04C2m2ye5UfXyb5x5WWIsZ4-19..v1625759628.png)
 
 Product UX/UI Design
 
@@ -1521,15 +1511,11 @@ Para esta parte utilizamos una herramienta muy conocida que es Uxpressia, para l
 
 - Uxpressia: Es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas
 
-![Logotipo, nombre de la empresa
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.119.png)Link: <https://uxpressia.com/>
+![Uxpressia](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4d126824c327c773931faea0871f3bca/uxpressia.png)
 
 - Figma: Es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows. 
 
-![Gráfico
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.120.png)Link: <https://www.figma.com/>
+![Figma](https://www.bynder.com/imager/metaimage/1676016/meta-figma_1d7c0a086ec922a4f11c61b256f9b311.jpg)
 
 Software Development
 
@@ -1537,28 +1523,19 @@ Para esta primera parte del trabajo, en el tema de desarrollo de software utiliz
 
 - Webstorm: Proporciona una experiencia de desarrollo más inteligente y eficiente, automatizando el trabajo rutinario y ayudando a manejar tareas complejas con facilidad.
 
-![Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.121.png)Link: [WebStorm](https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&content=523833970754&gad=1&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyYGwmeL7IepmiE-42xRGc9UxHGwnVfRkgYS72A5mDxJMdjdbqc1_P4aAt9UEALw_wcB)
+![WebStorm](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png)
 
 - GitHub: Es una plataforma de desarrollo colaborativo que nos permite alojar proyectos utilizando el sistema de control de versiones de git. Es propiedad de Microsoft y ofrece a los desarrolladores la posibilidad de crear repositorios de código y colaborar en proyectos con otros desarrolladores.
 
-![Icono
+![GitHub](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.122.png)Link: <https://github.com/>
+- HTML: HypexText Markup Language, es un lenguaje de etiquetas para la creación de páginas web.
 
-
-
-- ![Logotipo, Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.123.png)HTML: HypexText Markup Language, es un lenguaje de etiquetas para la creación de páginas web.
+![HTML](https://cms.rootstack.com/sites/default/files/inline-images/23-237381_java-html-language-logo-png-transparent-png.png)
 
 - CSS: Cascading Style Sheets o en español Hojas de Estilo en Cascada, es un lenguaje diseñado y utilizado para definir y modificar la apariencia de los documentos HTML y XML. Se utiliza mucho para el dar estilos a las páginas web a la mano de HTML.
 
-![Icono
-
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.124.png)
-
+![CSS](https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png)
 
 1. ### <a name="_toc131683640"></a><a name="_toc145263641"></a>Source Code Management
 Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git, donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Dentro de nuestra organización podrá visualizar todos los cambios y modificaciones hechos por cada miembro de nuestro equipo.
