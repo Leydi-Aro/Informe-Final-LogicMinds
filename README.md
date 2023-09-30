@@ -1700,11 +1700,11 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
     </tr>
     <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 1 Review
 Summary</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> - El sprint 1 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con los 5 ítems planificados.</td>
     </tr>
      </tr>
     <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 1 Retrospective Summary</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> El equipo se reunió al finalizar el primer sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones. </td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
