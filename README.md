@@ -1781,6 +1781,9 @@ Para esta entrega no se realizaron pruebas de testeo.
 
 ![Imagen de WhatsApp 2023-09-30 a las 01 17 10](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7c5bcea8-d45f-4baa-9218-eb74925c0bf5)
 
+![Imagen ZZZZ](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d96b0c65-c9bd-4182-8c39-0b75d032f617)
+
+Link de la App: https://renstate2-0.web.app/home
 
  #### 5.2.2.6 Documentation Evidence for Sprint Review
 
