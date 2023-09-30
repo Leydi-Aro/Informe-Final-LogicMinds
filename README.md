@@ -1480,7 +1480,7 @@ Para el diseño de la base de datos se ha identificado 9 entidades las cuales se
 # **IMPLEMENTATION, VALIDATION & DEPLOYMENT**
 
 ## <a name="_toc131679450"></a><a name="_toc131679541"></a><a name="_toc131682275"></a><a name="_toc131683637"></a><a name="_toc131683638"></a><a name="_toc145263639"></a>Software Configuration Management
-### <a name="_toc131683639"></a><a name="_toc145263640"></a>Software Development Environment Configuration
+5.1.1 ### <a name="_toc131683639"></a><a name="_toc145263640"></a>Software Development Environment Configuration
 Project Management
 
 Para gestionar los avances y poder coordinar los trabajos en tiempo real y de manera organizada, utilizamos muchas herramientas como:
@@ -1537,7 +1537,7 @@ Para esta primera parte del trabajo, en el tema de desarrollo de software utiliz
 
 ![CSS](https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png)
 
-1. ### <a name="_toc131683640"></a><a name="_toc145263641"></a>Source Code Management
+5.1.2 ### <a name="_toc131683640"></a><a name="_toc145263641"></a>Source Code Management
 Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git, donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Dentro de nuestra organización podrá visualizar todos los cambios y modificaciones hechos por cada miembro de nuestro equipo.
 
 Github URL: <https://github.com/LogicMinds-Group>
@@ -1551,7 +1551,7 @@ Github URL: <https://github.com/LogicMinds-Group>
 |Jhan Antonio|U20201B32@upc.edu.pe |<p>` `Asjhanc </p><p>https://github.com/asjhanc </p>|
 
 
-1. ### <a name="_toc131683641"></a><a name="_toc145263642"></a>Source Code Style Guide & Convention
+5.1.3 ### <a name="_toc131683641"></a><a name="_toc145263642"></a>Source Code Style Guide & Convention
 Para esta parte del trabajo y futuros presentables, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”. Donde podemos encontrar convenciones como las siguientes:
 
 - Declaración del tipo de documento en HTML.
@@ -1561,7 +1561,8 @@ Para esta parte del trabajo y futuros presentables, nos planteamos utilizar las 
 - Utilizar comillas dobles para los valores de los atributos en HTML.
 
 Estas convenciones nos ayudan a mantener una consistencia, flexibilidad y legibilidad de nuestro código HTML, además nos beneficiará para que otras personas puedan entender el código y poder darle mantenimiento.
-1. ### <a name="_toc131683642"></a><a name="_toc145263643"></a>Software Deployment Configuration
+
+5.1.4 ### <a name="_toc131683642"></a><a name="_toc145263643"></a>Software Deployment Configuration
 Para desplegar nuestra landing page, utilizamos GitHub, donde se puede observar lo siguiente:
 
 - Images: Se aloja las imágenes utilizadas en el landing page.
