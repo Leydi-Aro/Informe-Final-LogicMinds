@@ -1748,7 +1748,6 @@ Summary</td>
 |US-22|Listar propiedades|W-07|Mostrar una lista de propiedades|<p>- Crear una interfaz de usuario que muestre una lista de propiedades.</p><p>-Implementar la funcionalidad de ordenar la lista de propiedades según diferentes criterios, como precio, ubicación o tamaño.</p><p>-Agregar la capacidad de ver detalles adicionales de cada propiedad, como imágenes, descripciones y características.</p><p></p>|5 hours|Angie|In process|
 |US-21|Diseñar la interfaz de usuario|W-08|Crear una interfaz de usuario intuitiva y atractiva|-Diseñar un esquema de navegación claro y fácil de usar.|6 hours|Julio|Done|
 
-Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.134.png)
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
 Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
 
