@@ -1698,6 +1698,14 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> Asillo Mendoza, Julio Ernesto, Mamani Aro, Leydi Yaquelin, Ruiz Carhuamanca, Angie y Antonio Salazar, Jhan Clinton</td>
     </tr>
+    <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 1 Review
+Summary</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+    </tr>
+     </tr>
+    <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 1 Retrospective Summary</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+    </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
