@@ -1755,7 +1755,7 @@ Summary</td>
 <tr><td colspan="1" valign="top">(origin/feature/register) </td><td colspan="1" valign="top">61a1b0e6233afe0e988db3a81ee7a79c8ae06af9 </td><td colspan="1" valign="top">Edit profile dising  completed </td><td colspan="1" valign="top">Thu Sep 21 23:55:11 2023</td></tr>
 </table>
 
-
+![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 016](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/661d0245-275a-4958-be9d-3e97240c6b4a)
 
 
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
