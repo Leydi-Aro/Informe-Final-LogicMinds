@@ -1689,7 +1689,54 @@ Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9f
 
 Descripción generada automáticamente](Aspose.Words.1a4f8edb-5488-4d5f-b36e-f9fefe7baecb.133.png)
 
-
+1. ### Sprint 2
+1. #### Sprint Planning 
+<table style="">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-09-29</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">9:00 PM</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edwin Lopez</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> </td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong> </strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong> </strong></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ![Captura de pantalla de computadora
