@@ -1757,13 +1757,13 @@ Summary</td>
 
 ![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 016](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/661d0245-275a-4958-be9d-3e97240c6b4a)
 
-1. #### 5.2.2.4 Testing Suite Evidence for Sprint Review
+ #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
-1. #### 5.2.2.5 Execution Evidence for Sprint Review
+ #### 5.2.2.5 Execution Evidence for Sprint Review
 
-1. #### 5.2.2.6 Documentation Evidence for Sprint Review
+ #### 5.2.2.6 Documentation Evidence for Sprint Review
 
-1. #### 5.2.2.7 Software Deployment Evidence for Sprint Review
+ #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 
 
