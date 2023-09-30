@@ -1764,6 +1764,11 @@ Summary</td>
  #### 5.2.2.6 Documentation Evidence for Sprint Review
 
  #### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Para este sprint se desplegó una Fake Api, para poder desplegar el frontend. Se utilizó la herramienta Render y Github.
+
+![Aspose Words 98ab3de6-4375-4a0d-b77a-63c7c9506ac4 001](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7580cf97-5c9e-4e2e-a11f-84f7a582f3e8)
+
+Link del Fake Api desplegado: <https://logicminds-server.onrender.com>
 
 
 
