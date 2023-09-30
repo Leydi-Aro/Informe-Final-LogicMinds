@@ -1759,7 +1759,12 @@ Summary</td>
 
  #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 
+Para esta entrega no se realizaron pruebas de testeo.
+
  #### 5.2.2.5 Execution Evidence for Sprint Review
+
+
+
 
  #### 5.2.2.6 Documentation Evidence for Sprint Review
 
