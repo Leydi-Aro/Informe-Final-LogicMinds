@@ -1655,8 +1655,8 @@ Se evidencia la colaboración de todos los integrantes del equipo para el desarr
 
 ![INSIGHTS IMAGE 3](https://github.com/LogicMinds-Group/Informe-Final/assets/89101139/ce642a3f-61ad-466c-9f0f-db4d7e4b2815)
 
-1. ### Sprint 2
-1. #### Sprint Planning 
+1. ### 5.2.2 Sprint 2
+1. #### 5.2.2.1 Sprint Planning 
 <table style="">
   <tbody>
     <tr>
@@ -1721,7 +1721,7 @@ Summary</td>
   </tbody>
 </table>
 
-1. #### Sprint Backlog 2
+1. #### 5.2.2.2 Sprint Backlog 2
 
 |Sprint #|Sprint 2|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
@@ -1736,11 +1736,11 @@ Summary</td>
 |US-22|Listar propiedades|W-07|Mostrar una lista de propiedades|<p>- Crear una interfaz de usuario que muestre una lista de propiedades.</p><p>-Implementar la funcionalidad de ordenar la lista de propiedades según diferentes criterios, como precio, ubicación o tamaño.</p><p>-Agregar la capacidad de ver detalles adicionales de cada propiedad, como imágenes, descripciones y características.</p><p></p>|5 hours|Angie|In process|
 |US-21|Diseñar la interfaz de usuario|W-08|Crear una interfaz de usuario intuitiva y atractiva|-Diseñar un esquema de navegación claro y fácil de usar.|6 hours|Julio|Done|
 
-1. #### Development Evidence for Sprint Review
+1. #### 5.2.2.3 Development Evidence for Sprint Review
 ####
 
 <table><tr><th colspan="1" valign="top"><b>Repository</b> </th><th colspan="1" valign="top"><b>Branch</b> </th><th colspan="1" valign="top"><b>Commit id</b> </th><th colspan="1" valign="top"><b>Commit Message</b> </th><th colspan="1" valign="top"><b>Commited on(Date)</b> </th></tr>
-<tr><td colspan="1" rowspan="13" valign="top"><p>< https://github.com/LogicMinds-Group/frontEnd ></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p></b> </p></td><td colspan="1" valign="top">(origin/publish-property, publish-property</td><td colspan="1" valign="top">f847f87bd8ee4b8d283b8fb34754a40e263aba54 </td><td colspan="1" valign="top">add publish section </td><td colspan="1" valign="top">Fri Sep 29 17:05:32 2023 </td></tr>
+<tr><td colspan="1" rowspan="13" valign="top"><p> https://github.com/LogicMinds-Group/frontEnd </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p></b> </p></td><td colspan="1" valign="top">(origin/publish-property, publish-property</td><td colspan="1" valign="top">f847f87bd8ee4b8d283b8fb34754a40e263aba54 </td><td colspan="1" valign="top">add publish section </td><td colspan="1" valign="top">Fri Sep 29 17:05:32 2023 </td></tr>
 <tr><td colspan="1" valign="top">(origin/feature/register-property) </td><td colspan="1" valign="top">1e5120252a3032d0880a7259b01107fe57e97c8c </td><td colspan="1" valign="top">add property-form v1 </td><td colspan="1" valign="top">Fri Sep 29 00:51:13 2023 </td></tr>
 <tr><td colspan="1" valign="top"><p>(origin/feature/register-property) </p><p> </p></td><td colspan="1" valign="top"><p>763cf114f59aeaea407bf730737dbf03bef41f63 </p><p> </p></td><td colspan="1" valign="top">add property-form v1 </td><td colspan="1" valign="top">Fri Sep 29 00:51:13 2023 </td></tr>
 <tr><td colspan="1" valign="top">(origin/feature/forum-list) </td><td colspan="1" valign="top">6ec42df72e5915b85bf64abe97b00a0b28ce214e </td><td colspan="1" valign="top">Forum Secction completed </td><td colspan="1" valign="top">Sun Sep 24 04:43:39 2023 </td></tr>
@@ -1756,6 +1756,18 @@ Summary</td>
 </table>
 
 ![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 016](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/661d0245-275a-4958-be9d-3e97240c6b4a)
+
+
+
+
+
+1. #### 5.2.2.8 Team Collaboration Insights during Sprint
+Cada miembro del equipo trabajó en conjunto para la implementación del frontend.
+
+Repositorios de la Organización:
+
+
+
 
 
 1. # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
