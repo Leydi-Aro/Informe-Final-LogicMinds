@@ -1943,6 +1943,276 @@ No aplica para esta entrega
 ![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ca306114-ecff-4be9-8d30-ae1d504697e4)
 
 
+
+5.3.  ## <a name="_toc143240722"></a>Validation Interviews
+En esta sección, se detallan y se describen las actividades de las entrevistas de validación llevadas a cabo durante el proyecto.
+5.3.1. ### <a name="_toc143240723"></a>Diseño de Entrevistas
+Se validarán los siguientes productos: 
+
+Landing Page: https://logicminds-group.github.io/landingPage/  
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/136520bd-e7f7-44bb-b874-c793e6332fef)
+
+Web Application: https://renstate2-0.web.app/home 
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/582cd797-1175-4c29-a5df-70d72abfe1bc)
+
+
+1. ### <a name="_toc143240724"></a>Registro de Entrevistas
+Segmento Arrendador:
+
+- Entrevista 1:
+- Entrevistador: Leydi Mamani
+- Nombres y Apellidos: Maribel Chauca
+- Edad: 36
+- Distrito: San Juan de Miraflores
+- ![Interfaz de usuario gráfica, Sitio web
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/f28a807b-b231-4b98-a337-91bd94e841da)
+
+Evidencia de la Reunión:
+- URL de Stream: 
+- Duración de la entrevista: 5 minutos aproximadamente
+- Timing de la entrevista:
+- Resumen sobre la entrevista:
+
+La señora Maribel nos comenta que la aplicación le parece completa, respecto a las funcionalidades según su opinión cumple con los requisitos y sus necesidades. Por otro lado, sugiere que la lista de publicaciones podrías mostrar más de una imagen.
+
+
+
+- Entrevista 2:
+- Entrevistador: Edwin Lopez Huaman
+- Nombres y Apellidos: Miguel
+- Edad: 20 años
+- Distrito: Jesus Maria
+- Evidencia de la Reunión:
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/61895e52-201b-4a4d-ad33-fee9136cb5d0)
+
+- URL de Stream: 
+- Duración de la entrevista: 7 minutos
+- Timing de la entrevista: 11:33
+- Resumen sobre la entrevista:
+
+Miguel comenta que le gusta el diseño minimalista que tiene la aplicación que le genera interés seguir navegando.
+
+
+
+Segmento Arrendatario:
+
+- Entrevista 1: 
+- Entrevistador: Julio Asillo
+- Nombres y Apellidos: Sebastián Montes Molina
+- Edad: 24 años
+- Distrito: Comas
+- Evidencia de la Reunión:
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/90fe1efd-d08e-4187-b649-b09b4950aa51)
+  
+- URL de Stream: 
+- Duración de la entrevista: 04:09 minutos
+- Timing de la entrevista: 00:07 – 04:16 minutos
+- Resumen sobre la entrevista: En la entrevista el entrevistador Julio Asillo muestra nuestro landing page donde encontrará información sobre nuestra idea de negocio, para luego mostrar la aplicación web con sus rutas de navegación y lo que podrá ver al usar la aplicación web, para concluir le muestro las ventanas del log in y Register. El entrevistado Sebastián Montes aclara que es una buena idea de negocio, porque aplicaciones conocidas solo hay Airbnb y solo eso, entonces el recalca que es una buena idea de negocio ya que mostraremos información verídica de los inmuebles en alquiler. También recalca que debería haber un sistema de mensajería o chat con el arrendador o propietario del inmueble para llegar a un acuerdo, luego el entrevistador Julio Asillo procede a decirle que esa función está en desarrollo porque sí hay un botón que dice “send message”, listo para abarcar el sistema aun no creado de chat o mensajería directa con el arrendador.
+
+
+
+- Entrevista 2:
+- Entrevistador: Angie Ruiz
+- Nombres y Apellidos: Abrahaam Issac Vega Castillo
+- Edad: 20 años
+- Distrito: Santa Anita
+- Evidencia de la Reunión:
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/da1511f5-effe-41ee-a4c6-8d6db9aaf5a6))
+
+- URL de Stream: 
+- Duración de la entrevista: 7 minutos aproximadamente
+- Timing de la entrevista: 04:20 – 11:26 minutos
+- Resumen sobre la entrevista: 
+
+Abrahaam nos comenta que le parece interesante nuestro desarrollo, es fácil de entender y navegar. Además, considera interesante el enfoque de nuestro proyecto y que esté cumpliendo con las funcionalidades que se le explicó. 
+
+
+1. ### <a name="_toc143240725"></a>Evaluación según heurísticas
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+- CARRERA: Ingeniería de Software 
+- CURSO: Desarrollo de Aplicaciones Open Source 
+- SECCIÓN: SV52
+- PROFESORES: Hugo Allan Mori Paiva
+- AUDITOR: LogicMinds
+- CLIENTE: Usuarios
+- SITE O APP A EVALUAR: Renstate
+
+TAREAS POR EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+1\. Registro de un usuario nuevo 
+
+2\. Listado de un post 
+
+3\. Búsqueda de posts de alquiler 
+
+4\. Realizar calificación por cantidad de estrellas
+
+6\. Agregar Clientes a un Arrendador 
+
+7\. Acceso a la información
+
+
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+
+TABLA RESUMEN:
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :- | :- | :- |
+|1|La sección de registro de usuario de la aplicación no posee una Ventana de confirmación |3|Usabilidad: Libertad y control usuario|
+|2|La sección de registro de usuario de la aplicación no posee validación de los datos ingresados   |3|Usabilidad: Prevención de errores|
+|3|La sección de propiedades no muestra un sistema de búsqueda funcional |3|Usabilidad: Libertad y control usuario|
+|<p>4</p><p></p>|La lista de clientes no cuenta con ningún filtro y sistema de búsqueda funcional |3|Usabilidad: Libertad y control usuario|
+|<p>5</p><p></p>|Incluyen los botones de navegación según categoría, pero no existe contenido al que dirigirse |3|Information Architecture: Is it usable?|
+|<p>6</p><p></p>|Incluyen botones “Save”, “search”, “cancel” y otros con íconos para realizar acciones|3|Principio de arquitectura de la información: Navegación|
+
+
+
+DESCRIPCIÓN DE PROBLEMAS:
+
+**PROBLEMA #1:** La sección de registro de usuario de la aplicación no posee una ventana de confirmación* 
+
+Severidad: 3 
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario 
+
+Problema: 
+
+Al momento de realizar el registro de un nuevo usuario y dar click en el botón para realizar el registro, no aparece ninguna ventana que confirme que sea creado una cuenta satisfactoriamente. 
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c21cd27e-d429-41ef-8495-5a21bf7a2403)
+
+Recomendación: 
+
+Agregar una ventana emergente con el mensaje de registro exitoso y con opciones de aceptar o cancelar el registro. 
+
+
+**PROBLEMA #2:** La sección de registro de usuario de la aplicación no posee una ventana validación de confirmación de los datos ingresados*   
+
+Severidad: 3 
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario: Prevención de errores
+
+Problema: 
+
+Al momento de llenar todos los campos en la sección de registro de un nuevo usuario, la aplicación no valida que los datos ingresados sean coherentes con el campo a completar.  
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e83e4e39-3c13-47d5-bae4-ca5d7c93ad3e)
+
+Recomendación: 
+
+Agregar una ventana emergente con el mensaje de registro exitoso y con opciones de aceptar o cancelar el registro. 
+
+
+
+**PROBLEMA #3:** La sección de propiedades no muestra un sistema de búsqueda funcional*  
+
+Severidad: 3
+
+**Heurística violada:** Usabilidad: Libertad y control usuario
+
+Problema: 
+
+En la sección de anuncios no existe un filtro o Sistema de búsqueda funcional para buscar anuncios en particular. 
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/44e94c5f-6a8c-46fe-b8e3-1cd34c2e664d)
+
+Recomendación: 
+
+Agregar un sistema de búsqueda para mejorar la experiencia de usuario y facilitar la búsqueda del anuncio que realiza. 
+
+
+
+**PROBLEMA #4:** La lista de clientes no cuenta con ningún filtro y sistema de búsqueda funcional
+
+Severidad: 3
+
+**Heurística violada:** Usabilidad: Libertad y control usuario** 
+
+Problema: 
+
+La lista de anuncios de los inmuebles no presenta un sistema de búsqueda functional para encontrar anuncios específicos. Lo cual, genera en el usuario incomodidad por tener que revistar todos los anuncios para encontrar lo que desea. 
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7dab80e7-770f-43fb-8ebf-2b9c27e384be)
+
+Recomendación: 
+
+Implementar un sistema de búsqueda.
+
+
+
+**PROBLEMA #5:** Incluyen los botones de navegación según categoría, pero no existe contenido al que dirigirse 
+
+Severidad: 3
+
+**Heurística violada:** Information Architecture: Is it usable?
+
+Problema: 
+
+Al momento de dirigirse a la página principal del segmento arrendatario, se puede visualizar las categorías de la aplicación. Sin embargo, no existe contenido al que dirigirse.
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/294cd4da-7058-4d5d-819a-d244f9304d3c)
+
+Recomendación: 
+
+Redirigir a una ventana que si tenga la información necesaria que el usuario desea de esa sección y que el contenido sea el que corresponda.
+
+**PROBLEMA #6:** Incluyen botones “Save”, “search”, “cancel” y otros con íconos para realizar acciones en diferentes secciones de la aplicación
+
+Severidad: 3
+
+**Heurística violada:** Principio de arquitectura de la información: Navegación** 
+
+Problema: 
+
+Al momento de dirigirse a las secciones de la aplicación de ambos segmentos, se puede visualizar íconos y botones que facilitan la navegación del usuario, entre ellas está la sección anuncios que el ícono para brindar más detalles te redirige a los detalles del anuncio seleccionado. Sin embargo, contar con etiquetas podría ayudar a entender rápidamente que hace cada botón.
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/f3788813-081c-4b5f-80d7-718b5ab32cbc)
+
+(Te redirige a los detalles del anuncio)
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e7752b01-67e5-49fe-98b6-9cd04c6aa968)
+
+Recomendación: 
+
+Agregar etiquetas que ayuden al usuario saber qué hace cada botón y poder entender la navegación y las opciones que se brinda. 
+
+
+1. ## Video About the product
+El video About The Product es una herramienta audiovisual que se emplea para mostrar y promocionar un producto de una manera atractiva y convincente. A través de imágenes, gráficos, música y narración, este video busca captar la atención del público y transmitir de manera efectiva las características, beneficios y usos del producto en cuestión. El Video sobre el producto puede ser utilizado en diferentes plataformas, como páginas web, redes sociales o presentaciones comerciales, con el objetivo de generar interés en el producto y aumentar las ventas.
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e9c9af4a-d2af-4436-8a07-2027760b7ae3)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b482_upc_edu_pe/ETtt6dk6e0dEsdy9RRaoGsYBmw1_23yCCJ4u5Gz5emEmvg?e=eYg6Lb     
+
+
+
+
+
+
+
+
  # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
 Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
 
