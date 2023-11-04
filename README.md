@@ -1619,6 +1619,10 @@ El Sprint Planning es un evento o reunión que se realiza al inicio de cada Spri
 <tr><td colspan="1" valign="top">Master</td><td colspan="1" valign="top">08881964a3d8698f05240489009fc2741c906e54</td><td colspan="1" valign="top">Plans with java script added</td><td colspan="1" valign="top">10/09/2023</td></tr>
 </table>
 
+### JIRA SOFTWARE:
+Utilizamos Jira para el sprint 1 de la siguiente manera:
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e5618694-e1de-4ebe-a41f-9b2fc87b111f)
 
 
 1. #### Testing Suite Evidence for Sprint Review
@@ -1736,6 +1740,13 @@ Summary</td>
 |US-22|Listar propiedades|W-07|Mostrar una lista de propiedades|<p>- Crear una interfaz de usuario que muestre una lista de propiedades.</p><p>-Implementar la funcionalidad de ordenar la lista de propiedades según diferentes criterios, como precio, ubicación o tamaño.</p><p>-Agregar la capacidad de ver detalles adicionales de cada propiedad, como imágenes, descripciones y características.</p><p></p>|5 hours|Angie|In process|
 |US-21|Diseñar la interfaz de usuario|W-08|Crear una interfaz de usuario intuitiva y atractiva|-Diseñar un esquema de navegación claro y fácil de usar.|6 hours|Julio|Done|
 
+###JIRA SOFTWARE:
+
+Hemos utilizado Jira para el sprint 2:
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/9a77cb52-7046-4717-96dc-aeff3bd90dd4)
+
+
 1. #### 5.2.2.3 Development Evidence for Sprint Review
 ####
 
@@ -1811,6 +1822,95 @@ Repositorios de la Organización:
 ![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 019](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/aaf4e32b-74ce-44c4-9566-cdda63e3eba2)
 
 ![Aspose Words 1f3db494-a6ea-46b6-8f1e-e7d54ebe29ff 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ff526baf-dc35-4f34-a461-a0fbf1498091)
+
+
+1. ### 5.2.2 Sprint 3
+1. #### 5.2.2.1 Sprint Planning
+   Para este tercer sprint la planificación se hizo de la siguiente manera:
+   
+<table style="">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-10-28</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">9:00 PM</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edwin Abdias Lopez Huaman</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> Asillo Mendoza, Julio Ernesto, Mamani Aro, Leydi Yaquelin, Ruiz Carhuamanca, Angie y Antonio Salazar, Jhan Clinton</td>
+    </tr>
+    <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 2 Review
+Summary</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> - El sprint 2 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con los ítems planificados que corresponde al diseño de las interfaces de la aplicación. </td>
+    </tr>
+     </tr>
+    <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint n – 2 Retrospective Summary</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> El equipo se reunió al finalizar el primer sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones. </td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> -Culminación del FrontEnd y primera implementación del backend.</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">        
+        - <strong>Implementar la opción premium para usuarios (SP:5)</strong>   
+        - <strong>Implementar la sección de los clientes (SP:3)</strong> 
+        - <strong>Implementar la sección de propiedades y reservas de propiedades (SP:3)</strong> 
+        - <strong>Implementar la sección para las publicaciones (SP:3)</strong> 
+        - <strong>Implementar el servicio para los posts (SP:5)</strong>     
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>19</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Sprint Backlog 3
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item/Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status</td></tr>
+<tr><td colspan="1" rowspan="6" valign="top">S3</td><td colspan="1" rowspan="4" valign="top">Finalización del Frontend</td><td colspan="1" valign="top">SP301 </td><td colspan="1" valign="top">Implementar la sección premium para los usuarios</td><td colspan="1" valign="top"><p>Desarrollar la opción de ser usuario premium que permita a los usuarios acceder a más funcionalidades según subscripción</p><p>Desarrollar la opción de cancelar subscripción</p></td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Edwin</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">SP302</td><td colspan="1" valign="top">Implementar la sección de clientes y publicaciones</td><td colspan="1" valign="top"><p>Diseñar una interfaz de usuario intuitiva para visualizar las tablas de cada sección</p><p>Implementar la opción visualizar las tablas de clientes del arrendador</p><p>Implementar la opción visualizar las tablas de publicaciones del arrendador</p></td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Angie</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">SP303 </td><td colspan="1" valign="top">Implementar la sección de propiedades</td><td colspan="1" valign="top"><p>Diseñar una interfaz de usuario intuitiva para visualizar las tablas de las propiedades y de reserva de propiedades</p><p>Implementar la opción visualizar las tablas de propiedades y de reserva en el perfil del arrendador que corresponde</p></td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Leydi</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">SP304 </td><td colspan="1">Desplegar la Web Applications en Firebase </td><td colspan="1">Luego de haber concluido con la implementación de los frames de la aplicación se completó con el despliegue del frontend en Firebase.</td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Julio</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Primera versión del backend</td><td colspan="1" valign="top">SP305</td><td colspan="1" valign="top">Implementacion del servicio Post</td><td colspan="1">Desarrollar el servicio que corresponde a las publicaciones de propiedades para acceder al servicio en el frontend</td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Edwin</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">SP306 </td><td colspan="1">Primera integración del backend y frontend</td><td colspan="1">Desarrollo de la integración del frontend y el backend para la sección de Post.</td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Angie</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
  # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
