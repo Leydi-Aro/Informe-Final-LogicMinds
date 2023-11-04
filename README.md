@@ -1903,14 +1903,44 @@ Summary</td>
 <tr><td colspan="1" valign="top">SP306 </td><td colspan="1">Primera integración del backend y frontend</td><td colspan="1">Desarrollo de la integración del frontend y el backend para la sección de Post.</td><td colspan="1" valign="top">5 horas</td><td colspan="1" valign="top">Angie</td><td colspan="1" valign="top">Done</td></tr>
 </table>
 
+###JIRA SOFTWARE:
+Hemos hecho uso de la herramienta Jira para este Sprint colocando las historias o tareas correspondientes:
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/1eb91b58-8aa7-4d87-96da-0a62b026c46e)
 
+LINK JIRA: https://julioasillo.atlassian.net/jira/software/projects/LOS/boards/6/backlog   
 
+### Development Evidence for Sprint Review
 
+<table><tr><th colspan="1" valign="top"><b>Repository</b> </th><th colspan="1" valign="top"><b>Branch</b> </th><th colspan="1" valign="top"><b>Commit id</b> </th><th colspan="1" valign="top"><b>Commit Message</b> </th><th colspan="1" valign="top"><b>Commited on(Date)</b> </th></tr>
+<tr><td colspan="1" rowspan="4" valign="top"><p><https://github.com/LogicMinds-Group/backEnd></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p></b> </p></td><td colspan="1" valign="top">origin/feature/messages</td><td colspan="1" valign="top">` `a975e5ae77e42d41c93bfea7da551e8301de0304</td><td colspan="1" valign="top">delete other service</td><td colspan="1" valign="top">Fri Nov 3 2023</td></tr>
+<tr><td colspan="1" valign="top">origin/feature/post</td><td colspan="1" valign="top">14a5d22cc4adb167532b98235d452cf89f97e5df</td><td colspan="1" valign="top">add implementation postServiceImpl</td><td colspan="1" valign="top">Fri Nov 3 2023</td></tr>
+<tr><td colspan="1" valign="top">origin/feature/post</td><td colspan="1" valign="top">1184b40146309df1d789309ca0da1b30e3d84322</td><td colspan="1" valign="top">create postserviceImpl</td><td colspan="1" valign="top">Fri Nov 3 2023</td></tr>
+<tr><td colspan="1" valign="top">origin/feature/post</td><td colspan="1" valign="top">bd6c7da4ff9d8d89dab47201bc8f1fdb226e3982</td><td colspan="1" valign="top">add entity, repository and service of Post</td><td colspan="1" valign="top">Fri Nov 3 2023</td></tr>
+<tr><td colspan="1" valign="top"><https://github.com/LogicMinds-Group/frontEnd></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
+</table>
 
+#### Testing Suite Evidence for Sprint Review
+No aplica para esta entrega
+#### Execution Evidence for Sprint Review
+(capturas de forma local)
+#### Documentation Evidence for Sprint Review
+No aplica para esta entrega
+#### Software Deployment Evidence for Sprint Review
+(desplegar frontend)
+#### Team Collaboration Insights during Sprint
+• Members
 
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/eab1ad03-2477-4385-970d-5147ad234777)
 
+• Network Backend
 
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/c402f58e-eac0-498e-a1b6-ff74cbd08217)
 
+•	Netword Frontend
+
+![image](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/ca306114-ecff-4be9-8d30-ae1d504697e4)
 
 
  # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
