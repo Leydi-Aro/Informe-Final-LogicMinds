@@ -2342,9 +2342,11 @@ API de Posts:
 ![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 018](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b4ef6013-ae54-4a0f-af91-c070b77747b2)
 
 API de Users:
+
 ![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 019](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2499b039-d8be-455a-87d1-f6b05bc986ef)
 
 API de Properties:
+
 ![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/bfead3ab-d4eb-40f2-b1be-474d2d22e795)
 
 
