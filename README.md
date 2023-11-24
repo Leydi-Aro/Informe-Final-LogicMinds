@@ -2307,7 +2307,143 @@ Sprint N°04
 ![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 007](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fb9651f3-0187-43bb-aa5d-c65df2439e41)
 
 
+#### Testing Suite Evidence for Sprint Review
+Se muestra los siguientes Tests de las historias de usuario más relevantes según el equipo.
+#####PostService.feature:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 009](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/30010d6d-c170-44eb-932f-0ede0d0d0151)
 
+#####PropertyService.feature:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 010](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/9f6e17f7-508b-48f3-acb9-c3a20bc06373)
+
+
+
+#### Execution Evidence for Sprint Review
+Durante este sprint, se diseñó y desarrolló la última iteración con meticulosa consideración de patrones de diseño, una paleta de colores apropiada.
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 011](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2bbbc5ca-8b89-41b3-9e95-f2a39fb70206)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 012](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/8a748349-7962-4866-b6fb-e4673ba4bc46)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 013](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d7af4eb4-9e66-4767-a962-f6ebd83207f5)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 014](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/45a4b853-bdf0-4f44-b7da-801009aa7ae6)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 015](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/4d44049d-8bef-4ff4-a293-f6990d2ae35d)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 016](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fc7a0967-c591-40e6-a8fc-0b634694c0a8)
+
+
+#### Documentation Evidence for Sprint Review
+En esta sección se visualizará los endpoints implementados en el Backend. Se utilizó Swagger para la documentación de las API's como se puede ver a continuación:
+
+API de Posts:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 017](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b6d8137c-b08d-4cc8-abef-1748354b708d)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 018](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/b4ef6013-ae54-4a0f-af91-c070b77747b2)
+
+API de Users:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 019](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/2499b039-d8be-455a-87d1-f6b05bc986ef)
+
+API de Properties:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 020](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/bfead3ab-d4eb-40f2-b1be-474d2d22e795)
+
+
+Otras API's:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 021](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/548feb95-8b8d-4fe5-a4b6-baeadfcf4adb)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 022](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/621001e9-0cae-4e96-8257-579f446c1309)
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 023](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/8494de6c-5690-4846-aa64-222829316528)
+
+MySQL - AWS
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 024](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/8cac9e21-a8f6-415e-905a-252ddd9eac4e)
+
+Link despliegue del Backend:
+
+
+#### Software Deployment Evidence for Sprint Review
+En esta sección se presentará capturas del despliegue exitoso de la aplicación
+
+Link del despliegue: Link: https://renstate2-0.web.app/home 
+
+![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.025.png)
+
+![Interfaz de usuario gráfica, Sitio web
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.026.png)
+
+#### Team Collaboration Insights during Sprints
+Se evidencia la colaboración de todos los integrantes del equipo para el desarrollo del Backend y Frontend:
+
+Frontend:
+
+![Interfaz de usuario gráfica, Texto
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.027.png)
+
+![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.028.png) 
+
+![Interfaz de usuario gráfica
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.029.png)Backend:
+
+![Captura de pantalla de un celular
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.030.png)
+
+
+1. # **CONCLUSIONES**
+Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
+
+- **Análisis Competitivo sólido**: El análisis de competidores fue esencial para comprender el mercado y las tendencias actuales en el sector de alquileres de propiedades. Esto nos permitió identificar oportunidades para diferenciarnos y mejorar.
+
+- **Diseño Centrado en el Usuario:** El diseño en Figma se basó en la experiencia del usuario, asegurando que la navegación y la interfaz fueran intuitivas y atractivas para los posibles usuarios.
+
+- **Cumplimiento de las Mejores Prácticas de Diseño**: Se aplicaron principios de diseño web modernos, como la responsividad, la accesibilidad y el uso de imágenes optimizadas para garantizar una experiencia de usuario de alta calidad.
+- **Interacción Satisfactoria**: La implementación de JavaScript permitió agregar interacciones dinámicas, como filtros de búsqueda en tiempo real y efectos de desplazamiento suave, lo que mejoró la interacción del usuario en el sitio web.
+- **Colaboración Efectiva**: El uso de GitHub para el control de versiones facilitó la colaboración eficiente entre los miembros del equipo, lo que permitió un desarrollo fluido y un seguimiento preciso de los cambios.
+- **Optimización de Rendimiento**: Se realizaron esfuerzos para optimizar el rendimiento del sitio web, incluida la compresión de imágenes y la minimización de solicitudes HTTP, lo que resultó en tiempos de carga más rápidos y una experiencia más fluida para los usuarios.
+- **Seguridad y Privacidad**: Se implementaron prácticas de seguridad para proteger los datos de los usuarios y garantizar que la información personal estuviera segura.
+- **Pruebas Rigurosas**: Se realizaron pruebas exhaustivas en diferentes navegadores y dispositivos para garantizar la compatibilidad cruzada y la funcionalidad sin problemas en una variedad de situaciones.
+- **Feedback de Usuarios**: Se recopiló y se tuvo en cuenta el feedback de los usuarios durante el proceso de desarrollo y se realizaron ajustes en el diseño y la funcionalidad según las sugerencias recibidas.
+
+- **Planificación y Gestión de Proyectos**: La planificación adecuada y la gestión de proyectos son fundamentales para evitar retrasos y mantener el proyecto dentro del alcance y el presupuesto establecidos.
+
+
+1. # **VIDEO ABOUT THE TEAM**
+![Interfaz de usuario gráfica
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.031.png)El "Video About The Team" es una herramienta audiovisual que permite presentar al equipo de trabajo de una empresa, organización o proyecto. Esta producción audiovisual tiene como objetivo principal dar a conocer a los miembros del equipo, sus roles y responsabilidades, así como mostrar su experiencia, habilidades y logros. A través de este video, se busca crear una conexión entre el equipo y el público objetivo, generando confianza y mostrando la profesionalidad y compromiso del equipo.
+
+Link: [Video About-the-Team](https://www.youtube.com/watch?v=_gASB4oFDzk)
+
+1. # **VIDEO ABOUT THE PRODUCT**
+![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.032.png)El "Video About The Product" es una herramienta publicitaria que nos ayuda a promocionar nuestra aplicación y conseguir usuarios, utilizando frases precisas y contenido audiovisual casual.
+
+Link: <a name="_hlt151726271"></a>[About-The-Product Open Source](https://youtu.be/kFc2CH9FLnA)
+
+
+1. # <a name="_toc131683655"></a><a name="_toc145263647"></a>**ANEXOS**
+
+Link del Repositorio de GitHub: <https://github.com/LogicMinds-Group>
+
+Landing page: <https://logicminds-group.github.io/landingPage/>
+
+
+|**Sección**|**Características del video**|**Sobre el contenido**|**Integración y entrega**|
+| :- | :- | :- | :- |
+|Prototypes Navigation / Product Navigation|<p>Cantidad de videos: 1 </p><p>` `Nomenclatura:                             upc-pre-202302-si729-SW51-Renstate-prototype navigation-sprint-1</p><p>Formato: .mp4 </p><p>Duración: 1min 40 seg.</p>|Consolida demostración del flujo de navegación del Landing Page y las aplicaciones, priorizando los user flows relacionados con el core business.|<p>Enlace Landing Page  navigation:[navigation_landing.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b293_upc_edu_pe/EfRTWqszX75IoCvIH11T2YUBPD8wxaMRyvO6JU3Az3-MBg?e=pgFItI)</p><p>Captura: </p><p>![Interfaz de usuario gráfica, Sitio web
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.033.png)   </p>|
+
+Video About the Product: [About-The-Product Open Source](https://youtu.be/kFc2CH9FLnA)
+
+Video About the Team: [Video About-the-Team](https://www.youtube.com/watch?v=_gASB4oFDzk)
+
+Reunión de equipo: ![Interfaz de usuario gráfica, Aplicación
+
+Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.034.png)
 
 
 
