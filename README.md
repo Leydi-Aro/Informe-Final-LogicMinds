@@ -2207,6 +2207,110 @@ El video About The Product es una herramienta audiovisual que se emplea para mos
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b482_upc_edu_pe/ETtt6dk6e0dEsdy9RRaoGsYBmw1_23yCCJ4u5Gz5emEmvg?e=eYg6Lb     
 
 
+<a name="_toc131683651"></a><a name="_toc145263646"></a>Sprint 4
+#### Sprint Planning
+El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum. Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. 
+
+|Sprint #|Sprint 4|
+| :- | :- |
+|Sprint Planning Background||
+|Date|13/11/2023|
+|Time|3 horas|
+|Location o Platform|Discord|
+|Prepared by|Edwin Abdias Lopez Huaman – U20201B051|
+|Attendess (to planning meeting)|<p>Julio Ernesto Asillo Mendoza - U20201B482 </p><p>Leydi Yaquelin Mamani Aro - U20201B745</p><p>Angie Ruiz Carhuamaca - U20201B293</p><p>Jhan Clinton Antonio Salazar - U20201B312</p>|
+|Sprint 3 Review Summary|- El sprint 3 se centró en poder completar las historias de usuario acordadas por el equipo. Como parte de los resultados se finalizó con 5 ítems planificados.|
+|Sprint 3 Retrospective Summary|- El equipo se reunió al finalizar el sprint para realizar una retroalimentación retrospectiva. Durante la reunión, se discutieron los aspectos positivos y negativos del sprint y se identificaron oportunidades de mejora para futuras iteraciones.|
+|Sprint Goal & User Stories||
+|Sprint 4 Goal|-El objetivo principal para el presente sprint es poder culminar satisfactoriamente las historias de usuario acordadas por el equipo, completando así el Product Backlog del proyecto.|
+|Sprint 4 Velocity|<p>-US-06 Buscar inmuebles (Story Point 8)</p><p>-US-12 Categorizar inmuebles (Story Point 5)</p><p>-US-25 Dejar comentarios sobre propiedades (Story Point 3)</p><p>-US-24 Leer comentarios sobre propiedades (Story Point 3)</p><p>-US-26 Responder comentarios sobre propiedades (Story Point 3)</p><p>-US-20 Optimizar el rendimiento de la aplicación (Story Point 2)</p>|
+|Sum of Story Point|24|
+
+
+#### Sprint Backlog
+Se trata de una lista de todas las tareas que el equipo de desarrollo ha acordado completar durante un sprint específico. Esta lista se crea en base del Product Backlog, que contiene todas las funcionalidades y requisitos del producto.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 4</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item/Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / InProcess / ToReview / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US-06</td><td colspan="1" rowspan="2" valign="top">Buscar inmuebles</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Implementar sistema de búsqueda</td><td colspan="1" valign="top">Implementar un sistema de búsqueda avanzada que permita a los usuarios filtrar los inmuebles según sus necesidades.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Angie Ruiz</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementar el servicio de propiedades</td><td colspan="1" valign="top">Implementar el servicio de propiedades en el backend.</td><td colspan="1" valign="top">4 hours</td><td colspan="1" valign="top">Angie Ruiz</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US-12</td><td colspan="1" rowspan="2" valign="top">Categorizar inmuebles</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Implementación del Toolbar con las categorías.</td><td colspan="1" valign="top">Crear una interfaz de administración que permita a los usuarios categorizar los inmuebles en diferentes tipos, como apartamentos, casas y locales comerciales.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Leydi Aro</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementar un sistema de vista</td><td colspan="1" valign="top">Implementar un sistema para que los usuarios puedan visualizar solo las publicaciones con cierta categoría seleccionada.</td><td colspan="1" valign="top">2 hours</td><td colspan="1" valign="top">Leydi Aro</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US-25</td><td colspan="1" rowspan="2" valign="top">Dejar comentarios sobre propiedades</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Desarrollo del servicio de comentarios</td><td colspan="1" valign="top">Implementación en el backend del bounded context que incluya el sistema de comentarios.</td><td colspan="1" valign="top">5 hours</td><td colspan="1" valign="top">Edwin Lopez</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Diseño de interfaz</td><td colspan="1" valign="top">Diseñar una interfaz de usuario intuitiva que permita a los usuarios dejar comentarios y calificaciones sobre las propiedades.</td><td colspan="1" valign="top">4 hours</td><td colspan="1" valign="top">Edwin Lopez</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US-24</td><td colspan="1" valign="top">Leer comentarios sobre propiedades</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Implementación de la vista de comentarios</td><td colspan="1" valign="top">Mostrar los comentarios y calificaciones de los usuarios en la página de detalles de cada propiedad.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Jhan Salazar</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US-26</td><td colspan="1" valign="top">Responder comentarios sobre propiedades</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Desarrollo del servicio de comentarios</td><td colspan="1" valign="top">Implementación del backend para poder responder a comentarios.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Julio Asillo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US-20</td><td colspan="1" rowspan="2" valign="top">Optimizar el rendimiento de la aplicación</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Carga y optimización</td><td colspan="1" valign="top">Realizar pruebas de carga y optimización para mejorar los tiempos de carga de la aplicación y la respuesta del servidor.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Edwin Lopez</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Técnicas de almacenamiento</td><td colspan="1" valign="top">Implementar técnicas de almacenamiento en caché para reducir la carga en el servidor y mejorar la velocidad de la aplicación.</td><td colspan="1" valign="top">3 hours</td><td colspan="1" valign="top">Edwin Lopez</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
+#### ` `Development Evidence for Sprint Review
+
+<table><tr><th colspan="1" valign="top">&emsp;Repository</th><th colspan="1" valign="top">Branch</th><th colspan="1" valign="top">Commit id</th><th colspan="1" valign="top">Commit Message</th><th colspan="1" valign="top">Commited on (Date)</th></tr>
+<tr><td colspan="1" rowspan="12" valign="top"><p><https://github.com/LogicMinds-Group/backEnd></p><p></p></td><td colspan="1" valign="top">Origin/ Feature/forums</td><td colspan="1" valign="top">f61bc64ee8a0fcac2bc9ca85106c10487ed6cc24</td><td colspan="1" valign="top">Merge pull request #3</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/forums</td><td colspan="1" valign="top">437e1b79bb87b7ba81c0407279c735260e06e6eb</td><td colspan="1" valign="top">Controllers forum completed</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/forums</td><td colspan="1" valign="top">a09f831688e0475c3e73b16e772836ae426a7560</td><td colspan="1" valign="top">Creating packages and classes</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ posts-update</td><td colspan="1" valign="top">e044fade21d9b390bd66a1c5212a335859285603</td><td colspan="1" valign="top">Merge pull request #4</td><td colspan="1" valign="top">Fri Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ posts-update</td><td colspan="1" valign="top">6defd8c668a2054ac1b8e96af1a5c873afa31f91</td><td colspan="1" valign="top">add property for bounded context Posts</td><td colspan="1" valign="top">Fri Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">ea9510502ccd323057385571030a5bc3a6bc290f</td><td colspan="1" valign="top">Merge pull request #5</td><td colspan="1" valign="top">Fri Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">b66dd6c4c9ea274bc6d8098f809a65b71ab7c95a</td><td colspan="1" valign="top">POST for user completed</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">a4f1e7dcd4028262bc47139bca60e891094c4fb7</td><td colspan="1" valign="top">CRUD user completed</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">6dbaae36c34a970452fd4d70754d6b0e7778f4a7</td><td colspan="1" valign="top">Rated user was completed</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">24c7b961d774c50d0013914c4e61a374296737b5</td><td colspan="1" valign="top">Message apis completed</td><td colspan="1" valign="top">Sa Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Origin/ Feature/ post-properties</td><td colspan="1" valign="top">c4d57880f230ae55c304c0e6c0e65b1ca2a74972</td><td colspan="1" valign="top">Emergency login added</td><td colspan="1" valign="top">Sa Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">revert-5-feature/post-properties</td><td colspan="1" valign="top">4cf36eac2f62804080fd0091f899fe2b61438bba</td><td colspan="1" valign="top">Merge pull request #6</td><td colspan="1" valign="top">Sa Nov 18 2023</td></tr>
+<tr><td colspan="1" rowspan="7" valign="top"><https://github.com/LogicMinds-Group/frontEnd></td><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">4b5eef7fe9621f016459fda66189f01f52a557c1</td><td colspan="1" valign="top">Message completed</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">3341d401b6642d6af545ba925f0ebb3e459fce84</td><td colspan="1" valign="top">Api conection useers</td><td colspan="1" valign="top">Fri Nov 17 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">442d5fbdf6689163acab030dcaf17ad68f2d044a</td><td colspan="1" valign="top">Forum completed</td><td colspan="1" valign="top">Sa Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">ef5c7fb710c74fed58164522b672e6f94d535051</td><td colspan="1" valign="top">Desing ajusted</td><td colspan="1" valign="top">Sa Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">056ac0cfbf481ea1925a952f1ffdde0bb796fffd</td><td colspan="1" valign="top">Api properties connected</td><td colspan="1" valign="top">Sa Nov 18 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">57dd19241fa7d4556a9862da8bb494ef15ea6e80</td><td colspan="1" valign="top">avanced</td><td colspan="1" valign="top">Th Nov 23 2023</td></tr>
+<tr><td colspan="1" valign="top">Develop</td><td colspan="1" valign="top">9d5c7b7c71bea39fa0ff2e46ab88ea64a4c7e6d5</td><td colspan="1" valign="top">Completed</td><td colspan="1" valign="top">Sa Nov 24 2023</td></tr>
+</table>
+
+
+
+
+JIRA SOFTWARE:
+
+Para la gestión y vida del proyecto utilizamos Jira Software, donde documentamos los sprint, las historias de usuario, las tareas acordadas por cada historia de usuario y que participante del equipo este asociado con dicha historia.
+
+Sprint N°04
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 002](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d757bdd0-4512-43ea-9a74-e1792ca1dbca)
+
+-Tareas relacionadas con la US-06 Buscar inmuebles 
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 003](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7e7222e4-2b21-4cc8-81d3-346e83d424e2)
+
+- Tareas relacionadas con la US-12 Categorizar inmuebles
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 004](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/d620572f-5209-47a2-a260-61422ca413bd)
+
+- Tareas relacionadas con la US-25 Dejar comentarios sobre propiedades 
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 005](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/5a33af6b-5f32-435c-98eb-9c74102f6f07)
+
+- Tareas relacionadas con la US-24 Leer comentarios sobre propiedades 
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 006](https://github.
+
+- Tareas relacionadas con la US-26 Responder comentarios sobre propiedades 
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 008](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/7c2c5529-1854-4e16-a904-705b6b8bf7dc)
+
+- Tareas relacionadas con la US-20 Optimizar el rendimiento de la aplicación 
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 007](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fb9651f3-0187-43bb-aa5d-c65df2439e41)
+
+
+
+
+
+
+
 
 
 
