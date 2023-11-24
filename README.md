@@ -2207,8 +2207,9 @@ El video About The Product es una herramienta audiovisual que se emplea para mos
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b482_upc_edu_pe/ETtt6dk6e0dEsdy9RRaoGsYBmw1_23yCCJ4u5Gz5emEmvg?e=eYg6Lb     
 
 
-<a name="_toc131683651"></a><a name="_toc145263646"></a>Sprint 4
-#### Sprint Planning
+
+1. ### 5.2.2 Sprint 4
+1. #### 5.2.2.1 Sprint Planning
 El Sprint Planning es un evento o reunión que se realiza al inicio de cada Sprint en el marco de la metodología Scrum. Durante esta reunión, el equipo Scrum se reúne para planificar y definir la meta del Sprint, así como para discutir el backlog del producto y seleccionar los elementos de trabajo que se abordarán en el próximo Sprint. 
 
 |Sprint #|Sprint 4|
