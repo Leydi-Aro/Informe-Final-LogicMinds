@@ -2369,30 +2369,25 @@ En esta sección se presentará capturas del despliegue exitoso de la aplicació
 
 Link del despliegue: Link: https://renstate2-0.web.app/home 
 
-![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.025.png)
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 025](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/67e26aa4-a53b-44c1-98d3-3a64d2608773)
 
-![Interfaz de usuario gráfica, Sitio web
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 026](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/eb3f554e-4d2c-48f3-9165-ab300c3154eb)
 
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.026.png)
 
 #### Team Collaboration Insights during Sprints
 Se evidencia la colaboración de todos los integrantes del equipo para el desarrollo del Backend y Frontend:
 
 Frontend:
 
-![Interfaz de usuario gráfica, Texto
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 027](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/430265fc-2164-4bb1-9209-29fda6be62b6)
 
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.027.png)
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 028](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/a35e9212-3ed5-47ee-8a9a-fdb8d1679124)
 
-![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.028.png) 
+Backend:
 
-![Interfaz de usuario gráfica
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 029](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/20240671-5d0d-4314-97d2-3c162f84bbce)
 
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.029.png)Backend:
-
-![Captura de pantalla de un celular
-
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.030.png)
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 030](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/89995f4c-dd91-423c-a346-f35484aaa2bb)
 
 
 1. # **CONCLUSIONES**
@@ -2414,19 +2409,23 @@ Para esta entrega del trabajo hemos identificado la problemática y a la vez pla
 
 
 1. # **VIDEO ABOUT THE TEAM**
-![Interfaz de usuario gráfica
 
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.031.png)El "Video About The Team" es una herramienta audiovisual que permite presentar al equipo de trabajo de una empresa, organización o proyecto. Esta producción audiovisual tiene como objetivo principal dar a conocer a los miembros del equipo, sus roles y responsabilidades, así como mostrar su experiencia, habilidades y logros. A través de este video, se busca crear una conexión entre el equipo y el público objetivo, generando confianza y mostrando la profesionalidad y compromiso del equipo.
+"Video About The Team" es una herramienta audiovisual que permite presentar al equipo de trabajo de una empresa, organización o proyecto. Esta producción audiovisual tiene como objetivo principal dar a conocer a los miembros del equipo, sus roles y responsabilidades, así como mostrar su experiencia, habilidades y logros. A través de este video, se busca crear una conexión entre el equipo y el público objetivo, generando confianza y mostrando la profesionalidad y compromiso del equipo.
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 031](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/e634b108-e75a-499e-910d-9bd983a15cd7)
 
 Link: [Video About-the-Team](https://www.youtube.com/watch?v=_gASB4oFDzk)
 
 1. # **VIDEO ABOUT THE PRODUCT**
-![](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.032.png)El "Video About The Product" es una herramienta publicitaria que nos ayuda a promocionar nuestra aplicación y conseguir usuarios, utilizando frases precisas y contenido audiovisual casual.
+El "Video About The Product" es una herramienta publicitaria que nos ayuda a promocionar nuestra aplicación y conseguir usuarios, utilizando frases precisas y contenido audiovisual casual.
+
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 032](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/fa125d83-6c41-41c3-b913-be771c04bfb0)
+
 
 Link: <a name="_hlt151726271"></a>[About-The-Product Open Source](https://youtu.be/kFc2CH9FLnA)
 
 
-1. # <a name="_toc131683655"></a><a name="_toc145263647"></a>**ANEXOS**
+1. ##**ANEXOS**
 
 Link del Repositorio de GitHub: <https://github.com/LogicMinds-Group>
 
@@ -2435,7 +2434,7 @@ Landing page: <https://logicminds-group.github.io/landingPage/>
 
 |**Sección**|**Características del video**|**Sobre el contenido**|**Integración y entrega**|
 | :- | :- | :- | :- |
-|Prototypes Navigation / Product Navigation|<p>Cantidad de videos: 1 </p><p>` `Nomenclatura:                             upc-pre-202302-si729-SW51-Renstate-prototype navigation-sprint-1</p><p>Formato: .mp4 </p><p>Duración: 1min 40 seg.</p>|Consolida demostración del flujo de navegación del Landing Page y las aplicaciones, priorizando los user flows relacionados con el core business.|<p>Enlace Landing Page  navigation:[navigation_landing.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b293_upc_edu_pe/EfRTWqszX75IoCvIH11T2YUBPD8wxaMRyvO6JU3Az3-MBg?e=pgFItI)</p><p>Captura: </p><p>![Interfaz de usuario gráfica, Sitio web
+|Prototypes Navigation / Product Navigation|<p>Cantidad de videos: 1 </p><p>` `Nomenclatura:                             upc-pre-202302-si729-SW51-Renstate-prototype navigation-sprint-1</p><p>Formato: .mp4 </p><p>Duración: 1min 40 seg.</p>|Consolida demostración del flujo de navegación del Landing Page y las aplicaciones, priorizando los user flows relacionados con el core business.|<p>Enlace Landing Page  navigation:[navigation_landing.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b293_upc_edu_pe/EfRTWqszX75IoCvIH11T2YUBPD8wxaMRyvO6JU3Az3-MBg?e=pgFItI) ![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 033](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/65e6b252-98ae-41de-8ded-a12e7292cb70)</p><p>
 
 Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.033.png)   </p>|
 
@@ -2443,49 +2442,9 @@ Video About the Product: [About-The-Product Open Source](https://youtu.be/kFc2CH
 
 Video About the Team: [Video About-the-Team](https://www.youtube.com/watch?v=_gASB4oFDzk)
 
-Reunión de equipo: ![Interfaz de usuario gráfica, Aplicación
+Reunión de equipo:
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 034](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/302f3f04-f007-4a4e-ab0e-43ff4a356285)
 
-Descripción generada automáticamente](Aspose.Words.3c73ee82-cdc5-45de-bf7f-2f2d85520d2c.034.png)
-
-
-
-
-
-
-
-
-
-
- # <a name="_toc131683651"></a><a name="_toc145263646"></a>**CONCLUSIONES**
-Para esta entrega del trabajo hemos identificado la problemática y a la vez planteamos varias soluciones que tenga aplicaciones de ingeniería de software, entonces podemos concluir que hasta el momento tenemos diseños preparados para poder empezar a programar o desarrollar la aplicación, para posteriormente ver los resultados analizados en esta entrevista.
-
-- **Análisis Competitivo sólido**: El análisis de competidores fue esencial para comprender el mercado y las tendencias actuales en el sector de alquileres de propiedades. Esto nos permitió identificar oportunidades para diferenciarnos y mejorar.
-
-- **Diseño Centrado en el Usuario:** El diseño en Figma se basó en la experiencia del usuario, asegurando que la navegación y la interfaz fueran intuitivas y atractivas para los posibles usuarios.
-
-- **Cumplimiento de las Mejores Prácticas de Diseño**: Se aplicaron principios de diseño web modernos, como la responsividad, la accesibilidad y el uso de imágenes optimizadas para garantizar una experiencia de usuario de alta calidad.
-- **Interacción Satisfactoria**: La implementación de JavaScript permitió agregar interacciones dinámicas, como filtros de búsqueda en tiempo real y efectos de desplazamiento suave, lo que mejoró la interacción del usuario en el sitio web.
-- **Colaboración Efectiva**: El uso de GitHub para el control de versiones facilitó la colaboración eficiente entre los miembros del equipo, lo que permitió un desarrollo fluido y un seguimiento preciso de los cambios.
-- **Optimización de Rendimiento**: Se realizaron esfuerzos para optimizar el rendimiento del sitio web, incluida la compresión de imágenes y la minimización de solicitudes HTTP, lo que resultó en tiempos de carga más rápidos y una experiencia más fluida para los usuarios.
-- **Seguridad y Privacidad**: Se implementaron prácticas de seguridad para proteger los datos de los usuarios y garantizar que la información personal estuviera segura.
-- **Pruebas Rigurosas**: Se realizaron pruebas exhaustivas en diferentes navegadores y dispositivos para garantizar la compatibilidad cruzada y la funcionalidad sin problemas en una variedad de situaciones.
-- **Feedback de Usuarios**: Se recopiló y se tuvo en cuenta el feedback de los usuarios durante el proceso de desarrollo y se realizaron ajustes en el diseño y la funcionalidad según las sugerencias recibidas.
-
-1. # <a name="_toc131683655"></a><a name="_toc145263647"></a>**ANEXOS**
-
-Link del Repositorio de GitHub: <https://github.com/LogicMinds-Group>
-
-Landing page: <https://logicminds-group.github.io/landingPage/>
-
-
-|**Sección**| **Características del video**                                                                                                                                                                 |**Sobre el contenido**|**Integración y entrega**|
-| :- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :- | :- |
-|Prototypes Navigation / Product Navigation| <p>Cantidad de videos: </p><p>Nomenclatura:                             upc-pre-202302-si729-SW51-Renstate-prototype navigation-sprint-1</p><p>Formato: .mp4 </p><p>Duración: 1min 40 seg.</p>|Consolida demostración del flujo de navegación del Landing Page y las aplicaciones, priorizando los user flows relacionados con el core business.|<p>Enlace Landing Page  navigation:[navigation_landing.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b293_upc_edu_pe/EfRTWqszX75IoCvIH11T2YUBPD8wxaMRyvO6JU3Az3-MBg?e=pgFItI)</p>
-
-
-
-Reunión de equipo: 
-# COLOCAR IMAGENES
 
 1. <a name="_toc131683654"></a><a name="_toc145263648"></a>**BIBLIOGRAFIA**
 
