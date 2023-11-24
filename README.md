@@ -2295,7 +2295,7 @@ Sprint N°04
 
 - Tareas relacionadas con la US-24 Leer comentarios sobre propiedades 
 
-![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 006](https://github.
+![Aspose Words 3c73ee82-cdc5-45de-bf7f-2f2d85520d2c 006](https://github.com/LogicMinds-Group/Informe-Final/assets/83793319/3482ee31-5ec9-411d-a87a-10a87a487d18)
 
 - Tareas relacionadas con la US-26 Responder comentarios sobre propiedades 
 
